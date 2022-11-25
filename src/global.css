@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arvo:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-inherit: inherit;
+  --font-arvo: Arvo;
+  --font-bebas-neue: "Bebas Neue";
+  --font-nunito: Nunito;
+
+  /* font sizes */
+  --font-size-3xs: 14px;
+  --font-size-2xs: 16px;
+  --font-size-xs: 17.5px;
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 22px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 26px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 34px;
+  --font-size-5xl: 36px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-brown: #b23c26;
+  --color-white: #fff;
+  --color-gray-100: #8a8888;
+  --color-gray-200: #6b6b6b;
+  --color-gray-300: #1e1e1e;
+  --color-gray-400: rgba(30, 30, 30, 0.5);
+  --color-tan: #d39b47;
+  --color-red: #ff0000;
+
+  /* border radiuses */
+  --br-xs: 4px;
+  --br-sm: 6px;
+  --br-md: 10px;
+  --br-lg: 12px;
+}

@@ -1,0 +1,650 @@
+.rectangle-div21,
+.vector-icon6 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.rectangle-div21 {
+  top: 0;
+  background-color: var(--color-brown);
+  height: 156px;
+}
+.vector-icon6 {
+  top: 20px;
+  height: 136px;
+}
+.contact-div3 {
+  position: absolute;
+  top: 97px;
+  left: 1075px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+.line-div4 {
+  position: absolute;
+  top: 103px;
+  left: 1053px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 12px;
+}
+.training-div3 {
+  position: absolute;
+  top: 97px;
+  left: 931px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+.nja-logo-11 {
+  position: absolute;
+  top: 37px;
+  left: 99px;
+  width: 86px;
+  height: 102.33px;
+  object-fit: cover;
+}
+.rectangle-icon15,
+.rectangle-icon16 {
+  position: absolute;
+  top: 156px;
+  left: 0;
+  width: 100%;
+  height: 549px;
+  object-fit: cover;
+}
+.rectangle-icon16 {
+  top: 1610px;
+  height: 422px;
+}
+.please-fill-up-the-inquiry-for {
+  position: absolute;
+  top: 831px;
+  left: 513px;
+  font-weight: 500;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 852px;
+}
+.gf-gali1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.new-delhi-110059-p1 {
+  margin: 0;
+}
+.gf-gali-no-19-bhagwati-ga1,
+.njasecurgmailcom-div1 {
+  position: absolute;
+  left: 136px;
+  font-weight: 500;
+  display: inline-block;
+}
+.gf-gali-no-19-bhagwati-ga1 {
+  top: 907px;
+  white-space: pre-wrap;
+  width: 324px;
+}
+.njasecurgmailcom-div1 {
+  top: 1053px;
+  width: 240px;
+}
+.div2 {
+  top: 1158px;
+  left: 136px;
+  font-weight: 500;
+  width: 135px;
+}
+.div2,
+.div3,
+.request-a-quote1 {
+  position: absolute;
+  display: inline-block;
+}
+.div3 {
+  top: 1188px;
+  left: 136px;
+  font-weight: 500;
+  width: 146px;
+}
+.request-a-quote1 {
+  top: 768px;
+  left: 513px;
+  font-size: 35px;
+  font-weight: 600;
+}
+.about-us-div2,
+.home-div2 {
+  position: absolute;
+  top: 97px;
+  left: 404px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+.about-us-div2 {
+  left: 512px;
+}
+.line-div5,
+.line-div6,
+.line-div7 {
+  position: absolute;
+  top: 103px;
+  left: 490px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 12px;
+}
+.line-div6,
+.line-div7 {
+  left: 640px;
+}
+.line-div7 {
+  left: 906px;
+}
+.rectangle-div22,
+.rectangle-div23,
+.rectangle-div24,
+.rectangle-div25,
+.rectangle-div26 {
+  position: absolute;
+  top: 944px;
+  left: 513px;
+  border-radius: var(--br-xs);
+  border: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 414px;
+  height: 72px;
+}
+.rectangle-div23,
+.rectangle-div24,
+.rectangle-div25,
+.rectangle-div26 {
+  top: 1077px;
+}
+.rectangle-div24,
+.rectangle-div25,
+.rectangle-div26 {
+  top: 944px;
+  left: 952px;
+}
+.rectangle-div25,
+.rectangle-div26 {
+  top: 1077px;
+}
+.rectangle-div26 {
+  top: 1210px;
+  left: 513px;
+  width: 852px;
+  height: 251px;
+}
+.contact-persons-name {
+  top: 907px;
+  left: 513px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.contact-number-div1,
+.contact-persons-name,
+.email-div {
+  position: absolute;
+  display: inline-block;
+}
+.contact-number-div1 {
+  top: 1040px;
+  left: 513px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.email-div {
+  top: 907px;
+  left: 952px;
+}
+.company-name-div,
+.email-div,
+.your-inquiry-div {
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.your-inquiry-div {
+  position: absolute;
+  top: 1173px;
+  left: 513px;
+  display: inline-block;
+}
+.company-name-div {
+  top: 1040px;
+  left: 952px;
+}
+.abcexamplecom-div,
+.company-name-div,
+.contact-us-div {
+  position: absolute;
+  display: inline-block;
+}
+.abcexamplecom-div {
+  top: 966px;
+  left: 974px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.map-work{
+  z-index: 2;
+  margin-top:1400px;
+}
+.contact-us-div {
+  top: 768px;
+  left: 75px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.group-icon3,
+.group-icon4,
+.group-icon5,
+.rectangle-div27 {
+  position: absolute;
+  top: 907px;
+  left: 75px;
+  width: 42px;
+  height: 42px;
+}
+.group-icon4,
+.group-icon5,
+.rectangle-div27 {
+  top: 1046px;
+}
+.group-icon5,
+.rectangle-div27 {
+  top: 1165px;
+}
+.rectangle-div27 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-brown);
+  width: 173px;
+  height: 58px;
+}
+.submit-div1 {
+  position: absolute;
+  top: 13px;
+  left: 34px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div17 {
+  position: absolute;
+  top: 1485px;
+  left: 513px;
+  width: 173px;
+  height: 58px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+}
+.rectangle-div28 {
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 623px;
+}
+.home-div3 {
+  /* position: absolute; */
+  top: 146px;
+  left: 382px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.nja-logo-21 {
+  /* position: absolute; */
+  top: 75px;
+  left: 93px;
+  width: 165px;
+  height: 185px;
+  object-fit: cover;
+}
+.contact-us-b1,
+.security-services-b1,
+.usefull-link-b1 {
+  /* position: absolute; */
+  top: 75px;
+  left: 360px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  text-align: justify;
+}
+.contact-us-b1,
+.security-services-b1 {
+  left: 679px;
+}
+.contact-us-b1 {
+  left: 1078px;
+}
+.about-us-div3,
+.contact-div4,
+.security-services-div3,
+.training-div4 {
+  /* position: absolute; */
+  top: 204px;
+  left: 382px;
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.about-us-div3,
+.contact-div4,
+.training-div4 {
+  top: 259px;
+}
+.contact-div4,
+.training-div4 {
+  top: 314px;
+  text-align: center;
+  cursor: pointer;
+}
+.contact-div4 {
+  top: 369px;
+}
+.gf-gali-no-19-bhagwati-ga2 {
+  top: 146px;
+  white-space: pre-wrap;
+  width: 236px;
+}
+.div4,
+.div5,
+.gf-gali-no-19-bhagwati-ga2,
+.njasecurgmailcom-div2 {
+  /* position: absolute; */
+  left: 1134px;
+  font-size: var(--font-size-2xs);
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.njasecurgmailcom-div2 {
+  top: 249px;
+  width: 172px;
+}
+.div4,
+.div5 {
+  top: 331px;
+}
+.div5 {
+  top: 351px;
+  width: 106px;
+}
+.group-icon6,
+.group-icon7,
+.group-icon8 {
+  /* position: absolute; */
+  top: 146px;
+  left: 1078px;
+  width: 42px;
+  height: 42px;
+}
+.group-icon7,
+.group-icon8 {
+  top: 238px;
+}
+.group-icon8 {
+  top: 330px;
+}
+.electronic-security-div1,
+.guardingindustrial-security-div1,
+.night-patrol-div2,
+.security-of-ware-houses1,
+.transportation-of-cash2 {
+  /* position: absolute; */
+  top: 146px;
+  left: 700px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.electronic-security-div1,
+.night-patrol-div2,
+.security-of-ware-houses1,
+.transportation-of-cash2 {
+  top: 180px;
+}
+.electronic-security-div1,
+.night-patrol-div2,
+.security-of-ware-houses1 {
+  top: 214px;
+}
+.electronic-security-div1,
+.night-patrol-div2 {
+  top: 248px;
+}
+.electronic-security-div1 {
+  top: 282px;
+  left: 701px;
+}
+.fire-safety-systems1,
+.private-investigation-div2,
+.security-auditconsultancy-div2,
+.security-equipment-div1 {
+  /* position: absolute; */
+  top: 316px;
+  left: 701px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.fire-safety-systems1,
+.private-investigation-div2,
+.security-auditconsultancy-div2 {
+  top: 350px;
+}
+.private-investigation-div2,
+.security-auditconsultancy-div2 {
+  top: 384px;
+  left: 700px;
+}
+.security-auditconsultancy-div2 {
+  top: 418px;
+}
+.business-executive-protection2,
+.events-security-div2,
+.nja-security-pvt-ltd2,
+.training-of-security-staff2 {
+  /* position: absolute; */
+  top: 452px;
+  left: 700px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.business-executive-protection2,
+.events-security-div2,
+.nja-security-pvt-ltd2 {
+  top: 486px;
+}
+.events-security-div2,
+.nja-security-pvt-ltd2 {
+  top: 520px;
+}
+.nja-security-pvt-ltd2 {
+  top: 291px;
+  left: 71px;
+  font-size: var(--font-size-2xl);
+  font-weight: 600;
+  color: var(--color-brown);
+  text-align: center;
+}
+.arrow-icon17,
+.arrow-icon18,
+.arrow-icon19 {
+  /* position: absolute; */
+  top: 152.64px;
+  left: 366.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon18,
+.arrow-icon19 {
+  top: 154.64px;
+  left: 684.64px;
+}
+.arrow-icon19 {
+  top: 188.64px;
+}
+.arrow-icon20,
+.arrow-icon21,
+.arrow-icon22,
+.arrow-icon23,
+.arrow-icon24 {
+  /* position: absolute; */
+  top: 222.64px;
+  left: 684.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon21,
+.arrow-icon22,
+.arrow-icon23,
+.arrow-icon24 {
+  top: 256.64px;
+}
+.arrow-icon22,
+.arrow-icon23,
+.arrow-icon24 {
+  top: 290.64px;
+}
+.arrow-icon23,
+.arrow-icon24 {
+  top: 324.64px;
+}
+.arrow-icon24 {
+  top: 358.64px;
+}
+.arrow-icon25,
+.arrow-icon26,
+.arrow-icon27,
+.arrow-icon28,
+.arrow-icon29 {
+  /* position: absolute; */
+  top: 392.64px;
+  left: 684.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon26,
+.arrow-icon27,
+.arrow-icon28,
+.arrow-icon29 {
+  top: 426.64px;
+}
+.arrow-icon27,
+.arrow-icon28,
+.arrow-icon29 {
+  top: 460.64px;
+}
+.arrow-icon28,
+.arrow-icon29 {
+  top: 494.64px;
+}
+.arrow-icon29 {
+  top: 528.64px;
+}
+.arrow-icon30,
+.arrow-icon31,
+.arrow-icon32,
+.arrow-icon33,
+.group-div18 {
+  /* position: absolute; */
+  top: 208.64px;
+  left: 366.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon31,
+.arrow-icon32,
+.arrow-icon33,
+.group-div18 {
+  top: 263.64px;
+}
+.arrow-icon32,
+.arrow-icon33,
+.group-div18 {
+  top: 318.64px;
+}
+.arrow-icon33,
+.group-div18 {
+  top: 373.64px;
+}
+.group-div18 {
+  top: 2103px;
+  left: 0;
+  width: 1440px;
+  height: 623px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.security-services-div4 {
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.vector-icon7 {
+  /* position: absolute; */
+  height: 20.83%;
+  width: 5.36%;
+  top: 37.5%;
+  right: 0;
+  bottom: 41.67%;
+  left: 94.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div19 {
+  /* position: absolute; */
+  top: 97px;
+  left: 662px;
+  width: 224px;
+  height: 24px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.contact-div2 {
+  /* position: relative; */
+  width: 100%;
+  height: 2448px;
+  overflow: hidden;
+ /* background-image: url(../../public/contact@3x.png);*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: justify;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+
+
+
+.btnxspan{
+  font-size: 23px;
+  margin-left: -82px;
+  color: white;
+
+}

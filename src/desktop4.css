@@ -1,0 +1,480 @@
+.rectangle-div,
+.vector-icon {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.rectangle-div {
+  top: 0;
+  background-color: var(--color-brown);
+  height: 156px;
+}
+.vector-icon {
+  top: 20px;
+  height: 136px;
+}
+.contact-div {
+  position: absolute;
+  top: 97px;
+  left: 1072px;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.line-div {
+  position: absolute;
+  top: 103px;
+  left: 1050px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 12px;
+}
+.training-div {
+  position: absolute;
+  top: 97px;
+  left: 928px;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.nja-logo-1 {
+  position: absolute;
+  top: 37px;
+  left: 99px;
+  width: 86px;
+  height: 102.33px;
+  object-fit: cover;
+}
+.rectangle-div1,
+.rectangle-icon {
+  position: absolute;
+  top: 156px;
+  left: 0;
+  width: 1440px;
+  height: 549px;
+}
+.rectangle-icon {
+  object-fit: cover;
+}
+.rectangle-div1 {
+  background-color: var(--color-gray-400);
+}
+.security-guard-is {
+  font-weight: 500;
+}
+.p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.security-guard-li {
+  margin-bottom: 0;
+}
+.security-guard-transportation-ul {
+  margin: 0;
+  padding-left: var(--padding-md);
+}
+.security-guard-span2 {
+  font-weight: 600;
+}
+.a-security-guard {
+  line-height: 171.4%;
+}
+.a-security-guard-in-the-privat {
+  margin: 0;
+}
+.guardingindustrial-security,
+.security-guard-is-omnipresent {
+  position: absolute;
+  top: 820px;
+  left: 75px;
+  font-size: var(--font-inherit);
+  color: var(--color-gray-300);
+  text-align: justify;
+  display: inline-block;
+  width: 1290px;
+}
+.guardingindustrial-security {
+  top: 750px;
+  font-size: var(--font-size-4xl);
+  font-weight: 600;
+  color: var(--color-brown);
+  width: 719px;
+}
+.home-div {
+  top: 97px;
+  left: 404px;
+  cursor: pointer;
+}
+.about-us-div,
+.home-div,
+.security-services-div {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.about-us-div {
+  top: 97px;
+  left: 512px;
+  cursor: pointer;
+}
+.security-services-div {
+  top: 0;
+  left: 0;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 23.03%;
+  width: 5.36%;
+  top: 37.5%;
+  right: 0;
+  bottom: 39.47%;
+  left: 94.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div {
+  position: absolute;
+  top: 97px;
+  left: 662px;
+  width: 224px;
+  height: 24px;
+}
+.line-div1,
+.line-div2,
+.line-div3 {
+  position: absolute;
+  top: 103px;
+  left: 490px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 12px;
+}
+.line-div2,
+.line-div3 {
+  left: 640px;
+}
+.line-div3 {
+  left: 906px;
+}
+.rectangle-div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 623px;
+}
+.home-div1 {
+  position: absolute;
+  top: 146px;
+  left: 382px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.nja-logo-2 {
+  position: absolute;
+  top: 75px;
+  left: 93px;
+  width: 165px;
+  height: 185px;
+  object-fit: cover;
+}
+.contact-us-b,
+.security-services-b,
+.usefull-link-b {
+  position: absolute;
+  top: 75px;
+  left: 360px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  text-align: justify;
+}
+.contact-us-b,
+.security-services-b {
+  left: 679px;
+}
+.contact-us-b {
+  left: 1078px;
+}
+.about-us-div1,
+.contact-div1,
+.security-services-div1,
+.training-div1 {
+  position: absolute;
+  top: 204px;
+  left: 382px;
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.about-us-div1,
+.contact-div1,
+.training-div1 {
+  top: 259px;
+}
+.contact-div1,
+.training-div1 {
+  top: 314px;
+  text-align: center;
+  cursor: pointer;
+}
+.contact-div1 {
+  top: 369px;
+}
+.gf-gali-no-19-bhagwati-ga {
+  top: 146px;
+  white-space: pre-wrap;
+  width: 236px;
+}
+.div,
+.div1,
+.gf-gali-no-19-bhagwati-ga,
+.njasecurgmailcom-div {
+  position: absolute;
+  left: 1134px;
+  font-size: var(--font-size-2xs);
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.njasecurgmailcom-div {
+  top: 249px;
+  width: 172px;
+}
+.div,
+.div1 {
+  top: 331px;
+}
+.div1 {
+  top: 351px;
+  width: 106px;
+}
+.group-icon,
+.group-icon1,
+.group-icon2 {
+  position: absolute;
+  top: 146px;
+  left: 1078px;
+  width: 42px;
+  height: 42px;
+}
+.group-icon1,
+.group-icon2 {
+  top: 238px;
+}
+.group-icon2 {
+  top: 330px;
+}
+.guardingindustrial-security-div,
+.night-patrol-div,
+.security-of-ware-houses,
+.transportation-of-cash {
+  position: absolute;
+  top: 146px;
+  left: 700px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.night-patrol-div,
+.security-of-ware-houses,
+.transportation-of-cash {
+  top: 180px;
+}
+.night-patrol-div,
+.security-of-ware-houses {
+  top: 214px;
+}
+.night-patrol-div {
+  top: 248px;
+}
+.electronic-security-div,
+.fire-safety-systems,
+.private-investigation-div,
+.security-equipment-div {
+  position: absolute;
+  top: 282px;
+  left: 701px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.fire-safety-systems,
+.private-investigation-div,
+.security-equipment-div {
+  top: 316px;
+}
+.fire-safety-systems,
+.private-investigation-div {
+  top: 350px;
+}
+.private-investigation-div {
+  top: 384px;
+  left: 700px;
+}
+.business-executive-protection,
+.events-security-div,
+.nja-security-pvt-ltd,
+.security-auditconsultancy-div,
+.training-of-security-staff {
+  position: absolute;
+  top: 418px;
+  left: 700px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.business-executive-protection,
+.events-security-div,
+.nja-security-pvt-ltd,
+.training-of-security-staff {
+  top: 452px;
+}
+.business-executive-protection,
+.events-security-div,
+.nja-security-pvt-ltd {
+  top: 486px;
+}
+.events-security-div,
+.nja-security-pvt-ltd {
+  top: 520px;
+}
+.nja-security-pvt-ltd {
+  top: 291px;
+  left: 71px;
+  font-size: var(--font-size-2xl);
+  font-weight: 600;
+  color: var(--color-brown);
+  text-align: center;
+}
+.arrow-icon,
+.arrow-icon1,
+.arrow-icon2 {
+  position: absolute;
+  top: 152.64px;
+  left: 366.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon1,
+.arrow-icon2 {
+  top: 154.64px;
+  left: 684.64px;
+}
+.arrow-icon2 {
+  top: 188.64px;
+}
+.arrow-icon3,
+.arrow-icon4,
+.arrow-icon5,
+.arrow-icon6,
+.arrow-icon7 {
+  position: absolute;
+  top: 222.64px;
+  left: 684.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon4,
+.arrow-icon5,
+.arrow-icon6,
+.arrow-icon7 {
+  top: 256.64px;
+}
+.arrow-icon5,
+.arrow-icon6,
+.arrow-icon7 {
+  top: 290.64px;
+}
+.arrow-icon6,
+.arrow-icon7 {
+  top: 324.64px;
+}
+.arrow-icon7 {
+  top: 358.64px;
+}
+.arrow-icon10,
+.arrow-icon11,
+.arrow-icon12,
+.arrow-icon8,
+.arrow-icon9 {
+  position: absolute;
+  top: 392.64px;
+  left: 684.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon10,
+.arrow-icon11,
+.arrow-icon12,
+.arrow-icon9 {
+  top: 426.64px;
+}
+.arrow-icon10,
+.arrow-icon11,
+.arrow-icon12 {
+  top: 460.64px;
+}
+.arrow-icon11,
+.arrow-icon12 {
+  top: 494.64px;
+}
+.arrow-icon12 {
+  top: 528.64px;
+}
+.arrow-icon13,
+.arrow-icon14,
+.arrow-icon15,
+.arrow-icon16,
+.group-div1 {
+  position: absolute;
+  top: 208.64px;
+  left: 366.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon14,
+.arrow-icon15,
+.arrow-icon16,
+.group-div1 {
+  top: 263.64px;
+}
+.arrow-icon15,
+.arrow-icon16,
+.group-div1 {
+  top: 318.64px;
+}
+.arrow-icon16,
+.group-div1 {
+  top: 373.64px;
+}
+.group-div1 {
+  top: 1564px;
+  left: 0;
+  width: 1440px;
+  height: 623px;
+  text-align: left;
+  color: var(--color-white);
+}
+.desktop-4 {
+  position: relative;
+  width: 100%;
+  height: 2187px;
+  overflow: hidden;
+  /*background-image: url(../../public/desktop--4@3x.png);*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

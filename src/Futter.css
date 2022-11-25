@@ -1,0 +1,367 @@
+.rectangle-div23 {
+     /* position: absolute;  */
+    top:500px;
+    left: 0;
+    width: 1440pxpx;
+    height: 623px;
+  }
+  .home-div {
+     position: absolute; 
+    top: 146px;
+    left: 382px;
+    font-size: var(--font-size-lg);
+    font-weight: 500;
+    text-align: justify;
+    display: inline-block;
+  }
+  .nja-logo-2 {
+    position: absolute;
+    top: 75px;
+    left: 93px;
+    width: 165px;
+    height: 185px;
+    object-fit: cover;
+  }
+  .contact-us-b,
+  .security-services-b,
+  .usefull-link-b {
+    /* position: absolute; */
+
+    top: 75px;
+    left: 360px;
+    font-size: var(--font-size-2xl);
+    display: inline-block;
+    text-align: justify;
+    color:white;
+  }
+  .contact-us-b,
+  .security-services-b {
+    left: 679px;
+  }
+  .contact-us-b {
+    left: 1078px;
+  }
+  .about-us-div,
+  .contact-div,
+  .security-services-div,
+  .training-div {
+    position: absolute;
+    top: 1470px;
+    left: 544px;
+    font-weight: 500;
+    text-align: justify;
+    display: inline-block;
+  }
+  .about-us-div,
+  .contact-div,
+  .training-div {
+    top: 259px;
+  }
+  .contact-div,
+  .training-div {
+    top: 314px;
+    text-align: center;
+    cursor: pointer;
+  }
+  .contact-div {
+    top: 369px;
+  }
+  .gf-gali {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .new-delhi-110059-p {
+    margin: 0;
+  }
+  .gf-gali-no-19-bhagwati-ga {
+    top: 146px;
+    white-space: pre-wrap;
+    width: 236px;
+  }
+  .security-services-div1{
+    color:white;
+  }
+  .home-div1{
+    color: white;
+  }
+  .training-div2{
+    color:white;
+  }
+  .about-div88 {
+    color: white;
+    margin-left: 27%;
+    margin-top: 258px;
+    z-index: 2;
+    position: relative;
+    font-size: 18px;
+    font-weight: 600;
+}
+  .contact-div1{
+    color:white;
+  }
+  .div,
+  .div1,
+  .gf-gali-no-19-bhagwati-ga,
+  .njasecurgmailcom-div {
+    position: absolute;
+    left: 1134px;
+    font-size: var(--font-size-2xs);
+    font-weight: 500;
+    text-align: justify;
+    display: inline-block;
+    color:white;
+  }
+  .njasecurgmailcom-div {
+    top: 249px;
+    width: 172px;
+  }
+  .div,
+  .div1 {
+    top: 331px;
+  }
+  .div1 {
+    top: 351px;
+    width: 106px;
+  }
+  .group-icon,
+  .group-icon1,
+  .group-icon2 {
+    position: absolute;
+    top: 146px;
+    left: 1078px;
+    width: 42px;
+    height: 42px;
+  }
+  .group-icon1,
+  .group-icon2 {
+    top: 238px;
+  }
+  .group-icon2 {
+    top: 330px;
+  }
+  .guardingindustrial-security-div,
+  .night-patrol-div,
+  .security-of-ware-houses,
+  .transportation-of-cash {
+    /* position: absolute; */
+    top: 146px;
+    left: 700px;
+    letter-spacing: 0.03em;
+    line-height: 160.9%;
+    font-weight: 500;
+    display: inline-block;
+    color:white;
+  }
+  .night-patrol-div1{
+    color:white;
+  }
+  .electronic-security-div,
+   .fire-safety-systems,
+    .private-investigation-div, 
+    .security-equipment-div,
+  .transportation-of-cash1,
+  .private-investigation-div1,
+   .security-auditconsultancy-div1,
+   .training-of-security-staff1,
+   .business-executive-protection1,
+    .events-security-div1,
+    .gf-gali-no-19-bhagwati-ga {
+    color:white;
+  }
+ 
+  .night-patrol-div,
+  .security-of-ware-houses,
+  .transportation-of-cash {
+    top: 180px;
+  }
+  .night-patrol-div,
+  .security-of-ware-houses {
+    top: 214px;
+  }
+  .night-patrol-div {
+    top: 189px;
+    color: white;
+    left: 90px;
+    
+  }
+  .electronic-security-div,
+  .fire-safety-systems,
+  .private-investigation-div,
+  .security-equipment-div {
+    /* position: absolute; */
+    top: 282px;
+    left: 701px;
+    letter-spacing: 0.03em;
+    line-height: 160.9%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .fire-safety-systems,
+  .private-investigation-div,
+  .security-equipment-div {
+    top: 316px;
+  }
+  .fire-safety-systems
+   {
+    top: 350px;
+  }
+  .private-investigation-div {
+    top: 192px;
+    left: 44px;
+  }
+  .business-executive-protection,
+  .events-security-div,
+  .nja-security-pvt-ltd,
+  .security-auditconsultancy-div,
+  .training-of-security-staff {
+     position: absolute; 
+    top: 190px;
+    left: 27px;
+    color:white;
+    letter-spacing: 0.03em;
+    line-height: 160.9%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .business-executive-protection,
+  .events-security-div,
+  .nja-security-pvt-ltd,
+  .training-of-security-staff {
+    top: 190px;
+    left:30px;
+  }
+  .business-executive-protection,
+  .events-security-div,
+  .nja-security-pvt-ltd {
+    top: 178px;
+    left:48px;
+  }
+  .events-security-div,
+  .nja-security-pvt-ltd {
+    top: 180px;
+    left:43px;
+  }
+  .nja-security-pvt-ltd {
+    top: 291px;
+    left: 71px;
+    font-size: var(--font-size-2xl);
+    font-weight: 600;
+    color: var(--color-brown);
+    text-align: center;
+  }
+  .arrow-icon,
+  .arrow-icon1,
+  .arrow-icon2 {
+    /* position: absolute; */
+    top: 152.64px;
+    left: 366.64px;
+    width: 8.36px;
+    height: 14.73px;
+    color:white;
+  }
+ .my-page{
+  font-size: 1000px;
+  color:red;
+ }
+
+  .arrow-icon1,
+  .arrow-icon2 {
+    top: 154.64px;
+    left: 684.64px;
+  }
+  .arrow-icon2 {
+    top: 188.64px;
+    color:white;
+  }
+  .arrow-icon3,
+  .arrow-icon4,
+  .arrow-icon5,
+  .arrow-icon6,
+  .arrow-icon7 {
+    /* position: absolute; */
+    top: 222.64px;
+    left: 684.64px;
+    width: 8.36px;
+    height: 14.73px;
+  }
+  .arrow-icon4,
+  .arrow-icon5,
+  .arrow-icon6,
+  .arrow-icon7 {
+    top: 256.64px;
+  }
+  .arrow-icon5,
+  .arrow-icon6,
+  .arrow-icon7 {
+    top: 290.64px;
+  }
+  .arrow-icon6,
+  .arrow-icon7 {
+    top: 324.64px;
+  }
+  .arrow-icon7 {
+    top: 358.64px;
+  }
+  .arrow-icon10,
+  .arrow-icon11,
+  .arrow-icon12,
+  .arrow-icon8,
+  .arrow-icon9 {
+    /* position: absolute; */
+    top: 392.64px;
+    left: 684.64px;
+    width: 8.36px;
+    height: 14.73px;
+  }
+  .arrow-icon10,
+  .arrow-icon11,
+  .arrow-icon12,
+  .arrow-icon9 {
+    top: 426.64px;
+  }
+  .arrow-icon10,
+  .arrow-icon11,
+  .arrow-icon12 {
+    top: 460.64px;
+  }
+  .arrow-icon11,
+  .arrow-icon12 {
+    top: 494.64px;
+  }
+  .arrow-icon12 {
+    top: 528.64px;
+  }
+  .arrow-icon13,
+  .arrow-icon14,
+  .arrow-icon15,
+  .arrow-icon16 {
+    /* position: absolute; */
+    top: 208.64px;
+    left: 366.64px;
+    width: 8.36px;
+    height: 14.73px;
+  }
+  .arrow-icon14,
+  .arrow-icon15,
+  .arrow-icon16 {
+    top: 263.64px;
+  }
+  .arrow-icon15,
+  .arrow-icon16 {
+    top: 318.64px;
+  }
+  .arrow-icon16 {
+    top: 373.64px;
+  }
+  .group-div {
+    position: relative;
+    width: 100%;
+    height: 623px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-montserrat);
+    margin-top: 3290px;
+    margin-left: -700px;
+  }
+  

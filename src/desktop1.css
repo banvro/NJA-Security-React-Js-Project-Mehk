@@ -1,0 +1,1046 @@
+.rectangle-div,
+.vector-icon {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.rectangle-div {
+  top: 0;
+  background-color: var(--color-brown);
+  height: 156px;
+}
+/* .vector-icon {
+  top: 20px;
+  height: 136px;
+} */
+.nja-logo-1,
+.rectangle-icon {
+  position: absolute;
+  top: 37px;
+  left: 75px;
+  width: 86px;
+  height: 102.33px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  top: 156px;
+  left: 0;
+  width: 1440px;
+  height: 549px;
+}
+.switch-to-nja-security {
+  top: 366px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.for-your-personal-safety,
+.security-service-div,
+.switch-to-nja-security {
+  position: absolute;
+  left: 99px;
+  text-align: justify;
+  display: inline-block;
+  z-index:1
+}
+.security-service-div {
+  top: 254px;
+  font-size: var(--font-size-4xl);
+  font-weight: 600;
+  font-family: var(--font-nunito);
+  z-index: 3;
+}
+.for-your-personal-safety {
+  top: 295px;
+  font-size: 66px;
+  font-family: var(--font-bebas-neue);
+  z-index: 1;
+}
+.our-company-ms-nja-security-p {
+  top: 797px;
+  font-weight: 500;
+  color: var(--color-gray-300);
+  width: 600px;
+}
+.our-company-ms-nja-security-p,
+.welcome-to-nja-security-pvt-l,
+.with-the-need-based-approch-t {
+  position: absolute;
+  left: 617px;
+  text-align: justify;
+  display: inline-block;
+  font-size: medium;
+}
+.with-the-need-based-approch-t {
+  top: 883px;
+  font-weight: 500;
+  color: var(--color-gray-300);
+  width: 600px;
+}
+.welcome-to-nja-security-pvt-l {
+  top: 754px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  color: var(--color-brown);
+}
+.rectangle-icon1 {
+  position: absolute;
+  top: -3070px;
+    left: 673px;
+  border-radius: var(--br-xs);
+  width: 207px;
+  height: 46.05px;
+}
+.read-more-div {
+  position: absolute;
+ top: -3058px;
+    left: 704px;
+  display: inline-block;
+  width: 150px;
+  height: 30.03px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 6.74%;
+  width: 7.73%;
+  top: 0;
+  right: 5.8%;
+  bottom: 93.26%;
+  left: 86.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div {
+  position: absolute;
+  top: 787.09px;
+  left: 617px;
+  width: 207px;
+  height: 325.96px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arvo);
+}
+.rectangle-div1 {
+  position: absolute;
+  top: 753px;
+  left: 75px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: -6px 6px 20px rgba(0, 0, 0, 0.25),
+    6px 6px 20px rgba(0, 0, 0, 0.25);
+  width: 486px;
+  height: 651px;
+}
+.the-field-is-required,
+.the-field-is-required1 {
+  position: absolute;
+  top: 1132px;
+  left: 97px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-red);
+  text-align: justify;
+  display: inline-block;
+}
+.the-field-is-required1 {
+  top: 1018px;
+}
+.do-not-fill {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.openings {
+  margin: 0;
+}
+.contact-number-div,
+.do-not-fill-this-form-for-job,
+.email-id-div,
+.name-div {
+  position: absolute;
+  left: 97px;
+  font-weight: 500;
+  color: var(--color-black);
+  text-align: justify;
+  display: inline-block;
+}
+.do-not-fill-this-form-for-job {
+  top: 1247px;
+  font-size: 14.8px;
+}
+.contact-number-div,
+.email-id-div,
+.name-div {
+  top: 833px;
+}
+.contact-number-div,
+.email-id-div {
+  top: 930px;
+}
+.email-id-div {
+  top: 1044px;
+}
+.rectangle-div2 {
+  position: absolute;
+  top: 754px;
+  left: 75px;
+  border-radius: var(--br-sm) var(--br-sm) 0 0;
+  background-color: var(--color-brown);
+  width: 486px;
+  height: 52px;
+}
+.get-started-today {
+  position: absolute;
+  top: 768px;
+  left: 91px;
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+}
+.rectangle-div3,
+.rectangle-div4,
+.rectangle-div5 {
+  position: absolute;
+  top: 861px;
+  left: 97px;
+  border-radius: var(--br-md);
+  border: 1.5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 442px;
+  height: 54px;
+}
+.rectangle-div4,
+.rectangle-div5 {
+  top: 958px;
+}
+.rectangle-div5 {
+  top: 1072px;
+}
+.rectangle-div6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-tan);
+  width: 173px;
+  height: 58px;
+}
+.submit-div {
+  position: absolute;
+  top: 13px;
+  left: 34px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div1 {
+  position: absolute;
+  top: 1169px;
+  left: 97px;
+  width: 173px;
+  height: 58px;
+  text-align: justify;
+  font-size: var(--font-size-2xl);
+}
+.one-or-more-fields-have-an-err {
+  position: absolute;
+  top: 15px;
+  left: 13px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div2,
+.rectangle-div7 {
+  position: absolute;
+  width: 442px;
+  height: 69px;
+}
+.rectangle-div7 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 3px solid var(--color-tan);
+  box-sizing: border-box;
+}
+.group-div2 {
+  top: 1303px;
+  left: 98px;
+  text-align: justify;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+}
+.about-us-div,
+.contact-div,
+.home-div,
+.training-div {
+  position: absolute;
+  top: 97px;
+  left: 404px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+}
+.about-us-div,
+.contact-div,
+.training-div {
+  left: 512px;
+  cursor: pointer;
+}
+.contact-div,
+.training-div {
+  left: 928px;
+}
+.contact-div {
+  left: 1072px;
+}
+/* .line-div,
+.line-div1,
+.line-div2,
+.line-div3 {
+  position: absolute;
+  top: 103px;
+  left: 490px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 12px;
+}
+.line-div1,
+.line-div2,
+.line-div3 {
+  left: 640px;
+}
+.line-div2,
+.line-div3 {
+  left: 906px;
+}
+.line-div3 {
+  left: 1050px;
+} */
+.vector-icon2 {
+  position: absolute;
+  top: 1444px;
+  left: 0;
+  width: 100%;
+  height: 92px;
+}
+.security-services-div {
+  position: absolute;
+  top: 1467px;
+  left: 468px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+}
+.rectangle-div8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.25),
+    4px 4px 20px rgba(0, 0, 0, 0.25);
+  width: 277px;
+  height: 389px;
+}
+.rectangle-icon2 {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  border-radius: var(--br-md);
+  width: 262px;
+  height: 223px;
+  object-fit: cover;
+}
+.get-trained-security-guard-su,
+.guardingindustrial-security {
+  position: absolute;
+  top: 181px;
+  left: 7px;
+  font-weight: 500;
+  display: inline-block;
+}
+.get-trained-security-guard-su {
+  top: 255px;
+  left: 1px;
+  color: var(--color-black);
+  width: 273px;
+}
+.group-div3 {
+  position: absolute;
+  top: 1621px;
+  left: 23px;
+  width: 304px;
+  height: 389px;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.transportation-of-cash-valuab {
+  position: absolute;
+  top: 181px;
+  left: 38px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div4 {
+  position: absolute;
+  top: 1621px;
+  left: 321px;
+  width: 304px;
+  height: 389px;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.security-of-ware-house-depart {
+  position: absolute;
+  top: 181px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div5 {
+  position: absolute;
+  top: 1621px;
+  left: 621px;
+  width: 304px;
+  height: 389px;
+  font-size: var(--font-size-sm);
+}
+.night-patrol-div {
+  position: absolute;
+  top: 192px;
+  left: 86px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div6,
+.group-div7 {
+  position: absolute;
+  top: 1621px;
+  left: 923px;
+  width: 304px;
+  height: 389px;
+  font-size: var(--font-size-sm);
+}
+.group-div7 {
+  top: 2048px;
+  left: 75px;
+}
+.training-of-security-staff,
+.when-the-initiative-of-the-pro {
+  position: absolute;
+  top: 191px;
+  left: 39px;
+  font-weight: 500;
+  display: inline-block;
+}
+.when-the-initiative-of-the-pro {
+  top: 235px;
+  left: 15px;
+  color: var(--color-black);
+  width: 273px;
+}
+.group-div8 {
+  position: absolute;
+  top: 2475px;
+  left: 228px;
+  width: 304px;
+  height: 389px;
+  font-size: var(--font-size-sm);
+}
+.a-properly-designed-installed,
+.installation-and-maintenance-o {
+  position: absolute;
+  top: 181px;
+  left: 9px;
+  font-weight: 500;
+  display: inline-block;
+}
+.a-properly-designed-installed {
+  top: 246px;
+  left: 15px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  width: 273px;
+}
+.group-div9 {
+  position: absolute;
+  top: 2048px;
+  left: 404px;
+  width: 304px;
+  height: 389px;
+  font-size: var(--font-size-xs);
+}
+.business-executive-protection {
+  position: absolute;
+  top: 181px;
+  left: 66px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div10 {
+  position: absolute;
+  top: 2475px;
+  left: 557px;
+  width: 304px;
+  height: 389px;
+  font-size: var(--font-size-xs);
+}
+.a-private-investigator-a-priva,
+.private-investigation-div {
+  position: absolute;
+  top: 192px;
+  left: 59px;
+  font-weight: 500;
+  display: inline-block;
+}
+.a-private-investigator-a-priva {
+  top: 246px;
+  left: 15px;
+  color: var(--color-black);
+  width: 273px;
+}
+.group-div11 {
+  position: absolute;
+  top: 2048px;
+  left: 732px;
+  width: 304px;
+  height: 389px;
+  font-size: var(--font-size-sm);
+}
+.events-security-div {
+  position: absolute;
+  top: 191px;
+  left: 83px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div12 {
+  position: absolute;
+  top: 2475px;
+  left: 885px;
+  width: 304px;
+  height: 389px;
+  font-size: var(--font-size-sm);
+}
+.security-auditconsultancy-div {
+  /* position: absolute; */
+  top: 192px;
+  left: 31px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div13 {
+  position: absolute;
+  top: 2048px;
+  left: 1061px;
+  width: 304px;
+  height: 389px;
+  font-size: var(--font-size-sm);
+}
+.rectangle-div19 {
+  position: absolute;
+  top: 2893px;
+  left: 0;
+  background-color: var(--color-brown);
+  width: 1440px;
+  height: 471px;
+}
+.the-selected-candidates-underg,
+.training-div1 {
+  position: absolute;
+  left: 75px;
+  display: inline-block;
+}
+.training-div1 {
+  top: 2972px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  text-align: justify;
+}
+.the-selected-candidates-underg {
+  top: 3038px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  text-align: left;
+  width: 758px;
+}
+.rectangle-icon13 {
+  position: absolute;
+  top: 3252px;
+  left: 75px;
+  border-radius: var(--br-xs);
+  width: 170px;
+  height: 38px;
+}
+.read-more-div1 {
+  position: absolute;
+  top: 3259px;
+  left: 85px;
+  font-family: var(--font-arvo);
+  text-align: left;
+  display: inline-block;
+  width: 126px;
+  height: 25px;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 0.4%;
+  width: 0.83%;
+  top: 58.83%;
+  right: 83.82%;
+  bottom: 40.77%;
+  left: 15.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 2917px;
+  left: 880px;
+  width: 490px;
+  height: 423px;
+  object-fit: cover;
+}
+.nja-security-pvt-ltd {
+  position: absolute;
+  top: 46px;
+  left: 169px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-div20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 623px;
+  padding-left: 78px;
+}
+.home-div1 {
+  position: absolute;
+  top: 146px;
+  left: 382px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.nja-logo-2 {
+  position: absolute;
+  top: 75px;
+  left: 93px;
+  width: 165px;
+  height: 185px;
+  object-fit: cover;
+}
+.contact-us-b,
+.security-services-b,
+.usefull-link-b {
+  position: absolute;
+  top: 75px;
+  left: 360px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  text-align: justify;
+}
+.contact-us-b,
+.security-services-b {
+  left: 679px;
+}
+.contact-us-b {
+  left: 1078px;
+}
+.about-us-div1,
+.contact-div1,
+.security-services-div1,
+.training-div2 {
+  position: absolute;
+  top: 204px;
+  left: 382px;
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.about-us-div1,
+.contact-div1,
+.training-div2 {
+  top: 259px;
+}
+.contact-div1,
+.training-div2 {
+  top: 314px;
+  text-align: center;
+  cursor: pointer;
+}
+.contact-div1 {
+  top: 369px;
+}
+.gf-gali-no-19-bhagwati-ga {
+  top: 146px;
+  white-space: pre-wrap;
+  width: 236px;
+}
+.div,
+.div1,
+.gf-gali-no-19-bhagwati-ga,
+.njasecurgmailcom-div {
+  position: absolute;
+  left: 1134px;
+  font-size: var(--font-size-2xs);
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+}
+.njasecurgmailcom-div {
+  top: 249px;
+  width: 172px;
+}
+.div,
+.div1 {
+  top: 331px;
+}
+.div1 {
+  top: 351px;
+  width: 106px;
+}
+.group-icon,
+.group-icon1,
+.group-icon2 {
+  position: absolute;
+  top: 146px;
+  left: 1078px;
+  width: 42px;
+  height: 42px;
+}
+.group-icon1,
+.group-icon2 {
+  top: 238px;
+}
+.group-icon2 {
+  top: 330px;
+}
+.guardingindustrial-security-div,
+.night-patrol-div1,
+.security-of-ware-houses,
+.transportation-of-cash1 {
+  position: absolute;
+  top: 146px;
+  left: 700px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.night-patrol-div1,
+.security-of-ware-houses,
+.transportation-of-cash1 {
+  top: 180px;
+}
+.night-patrol-div1,
+.security-of-ware-houses {
+  top: 214px;
+}
+.night-patrol-div1 {
+  top: 248px;
+}
+.electronic-security-div,
+.fire-safety-systems,
+.private-investigation-div1,
+.security-auditconsultancy-div1,
+.security-equipment-div {
+  position: absolute;
+  top: 282px;
+  left: 701px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.fire-safety-systems,
+.private-investigation-div1,
+.security-auditconsultancy-div1,
+.security-equipment-div {
+  top: 316px;
+}
+.fire-safety-systems,
+.private-investigation-div1,
+.security-auditconsultancy-div1 {
+  top: 350px;
+}
+.private-investigation-div1,
+.security-auditconsultancy-div1 {
+  top: 384px;
+  left: 700px;
+}
+.security-auditconsultancy-div1 {
+  top: 418px;
+}
+.business-executive-protection1,
+.events-security-div1,
+.nja-security-pvt-ltd1,
+.training-of-security-staff1 {
+  position: absolute;
+  top: 452px;
+  left: 700px;
+  letter-spacing: 0.03em;
+  line-height: 160.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.business-executive-protection1,
+.events-security-div1,
+.nja-security-pvt-ltd1 {
+  top: 486px;
+}
+.events-security-div1,
+.nja-security-pvt-ltd1 {
+  top: 520px;
+}
+.nja-security-pvt-ltd1 {
+  top: 291px;
+  left: 71px;
+  font-size: var(--font-size-2xl);
+  font-weight: 600;
+  color: var(--color-brown);
+  text-align: center;
+}
+.arrow-icon,
+.arrow-icon1,
+.arrow-icon2 {
+  position: absolute;
+  top: 152.64px;
+  left: 366.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon1,
+.arrow-icon2 {
+  top: 154.64px;
+  left: 684.64px;
+}
+.arrow-icon2 {
+  top: 188.64px;
+}
+.arrow-icon3,
+.arrow-icon4,
+.arrow-icon5,
+.arrow-icon6,
+.arrow-icon7 {
+  position: absolute;
+  top: 222.64px;
+  left: 684.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon4,
+.arrow-icon5,
+.arrow-icon6,
+.arrow-icon7 {
+  top: 256.64px;
+}
+.arrow-icon5,
+.arrow-icon6,
+.arrow-icon7 {
+  top: 290.64px;
+}
+.arrow-icon6,
+.arrow-icon7 {
+  top: 324.64px;
+}
+.arrow-icon7 {
+  top: 358.64px;
+}
+.arrow-icon10,
+.arrow-icon11,
+.arrow-icon12,
+.arrow-icon8,
+.arrow-icon9 {
+  position: absolute;
+  top: 392.64px;
+  left: 684.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon10,
+.arrow-icon11,
+.arrow-icon12,
+.arrow-icon9 {
+  top: 426.64px;
+}
+.arrow-icon10,
+.arrow-icon11,
+.arrow-icon12 {
+  top: 460.64px;
+}
+.arrow-icon11,
+.arrow-icon12 {
+  top: 494.64px;
+}
+.arrow-icon12 {
+  top: 528.64px;
+}
+.arrow-icon13,
+.arrow-icon14,
+.arrow-icon15,
+.arrow-icon16,
+.group-div14 {
+  position: absolute;
+  top: 208.64px;
+  left: 366.64px;
+  width: 8.36px;
+  height: 14.73px;
+}
+.arrow-icon14,
+.arrow-icon15,
+.arrow-icon16,
+.group-div14 {
+  top: 263.64px;
+}
+.arrow-icon15,
+.arrow-icon16,
+.group-div14 {
+  top: 318.64px;
+}
+.arrow-icon16,
+.group-div14 {
+  top: 373.64px;
+}
+.group-div14 {
+  /* top: auto; */
+  /* top: 2020px; */
+  left: 0;
+  width: 1440px;
+  height: 623px;
+  text-align: left;
+}
+.rectangle-icon14 {
+  position: absolute;
+  top: 104.49px;
+  left: 0;
+  border-radius: var(--br-xs);
+  width: 242px;
+  height: 46px;
+}
+.request-a-quote {
+  position: absolute;
+  top: 112.49px;
+  left: 16px;
+  display: inline-block;
+}
+
+.vector-icon4 {
+  position: absolute;
+  height: 14.6%;
+  width: 6.61%;
+  top: 0;
+  right: 5.37%;
+  bottom: 85.4%;
+  left: 88.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div15 {
+  position: absolute;
+  top: 307.51px;
+  left: 99px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 242px;
+  height: 150.49px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arvo);
+}
+.security-services-div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 20.83%;
+  width: 5.36%;
+  top: 37.5%;
+  right: 0;
+  bottom: 41.67%;
+  left: 94.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div16 {
+  position: absolute;
+  top: 97px;
+  left: 662px;
+  width: 224px;
+  height: 24px;
+  color: var(--color-black);
+}
+.desktop-1 {
+ 
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background-image: url(../public/picture/Desktop\ -\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
+
+
+
+.hlocss{
+  font-size: 20px;
+    padding-left: 13px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.btnchng{
+  position: absolute;
+    top: -3px;
+    left: 5px;
+    font-weight: 500;
+    display: inline-block;
+    padding: 17px;
+    padding-left: 90px;
+    background-color: #f0f8ff00;
+    border-color: #ff000000;
+    cursor: pointer;
+}
+
+.spnbtn{
+  font-size: 23px;
+  margin-left: -55px;
+  color: white;
+}
+
+.letsfooter{
+  /* width: 100% !important; */
+  width: 1518px;
+  margin-top: 1198px;
+  position: relative;
+  margin-bottom: -827px;
+}

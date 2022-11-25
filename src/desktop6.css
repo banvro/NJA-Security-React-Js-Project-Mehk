@@ -1,0 +1,255 @@
+.rectangle-div,
+.vector-icon {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.rectangle-div {
+  top: 0;
+  background-color: var(--color-brown);
+  height: 156px;
+}
+.vector-icon {
+  top: 20px;
+  height: 136px;
+}
+.contact-div {
+  position: absolute;
+  top: 97px;
+  left: 1072px;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.line-div {
+  position: absolute;
+  top: 103px;
+  left: 1050px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 12px;
+}
+.training-div {
+  position: absolute;
+  top: 97px;
+  left: 928px;
+  font-weight: 500;
+  display: inline-block;
+  cursor: pointer;
+}
+.nja-logo-1 {
+  position: absolute;
+  top: 37px;
+  left: 99px;
+  width: 86px;
+  height: 102.33px;
+  object-fit: cover;
+}
+.rectangle-div1,
+.rectangle-icon {
+  position: absolute;
+  top: 156px;
+  left: 0;
+  width: 100%;
+  height: 549px;
+}
+.rectangle-icon {
+  object-fit: cover;
+}
+.rectangle-div1 {
+  background-color: var(--color-gray-400);
+}
+.we-take-this {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.a-comprehensible-proposal {
+  margin: 0;
+}
+.we-take-this-opportunity-to-in {
+  position: absolute;
+  top: 820px;
+  left: 75px;
+  font-size: var(--font-size-2xl);
+  font-weight: 500;
+  color: var(--color-gray-300);
+  text-align: justify;
+  display: inline-block;
+  width: 1290px;
+}
+.our-services-span {
+  line-height: 129.9%;
+  font-weight: 600;
+}
+.securit-guard-armedunarmed3 {
+  line-height: 150.4%;
+}
+.security-superviser-civillian {
+  margin-bottom: 0;
+}
+.contract-labour-span {
+  font-weight: 500;
+}
+.securit-guard-armedunarmed {
+  margin: 0;
+  font-size: var(--font-size-2xl);
+  padding-left: var(--padding-sm);
+  color: var(--color-gray-300);
+}
+.span1 {
+  line-height: 129.9%;
+}
+.business-specification-span1 {
+  font-weight: 600;
+}
+.business-specification-span {
+  line-height: 129.4%;
+}
+.we-comply-with-all-statutory-o {
+  margin: 0;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-300);
+}
+.our-services-securit-guard-a {
+  position: absolute;
+  top: 1263px;
+  left: 75px;
+  text-align: justify;
+  display: inline-block;
+  width: 1290px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-brown);
+}
+.company-registration-gst-no-r1 {
+  margin: 0;
+  padding-left: var(--padding-sm);
+}
+.company-registration-gst-no-r {
+  position: absolute;
+  top: 1692px;
+  left: 120px;
+  font-size: var(--font-inherit);
+  line-height: 129.4%;
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+}
+.about-us-div {
+  position: absolute;
+  top: 750px;
+  left: 75px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-brown);
+  text-align: justify;
+  display: inline-block;
+}
+.about-us-div1,
+.home-div {
+  position: absolute;
+  top: 97px;
+  font-weight: 500;
+  display: inline-block;
+}
+.home-div {
+  left: 404px;
+  cursor: pointer;
+}
+.about-us-div1 {
+  left: 512px;
+}
+.line-div1,
+.line-div2,
+.line-div3 {
+  position: absolute;
+  top: 103px;
+  left: 490px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 12px;
+}
+.line-div2,
+.line-div3 {
+  left: 640px;
+}
+.line-div3 {
+  left: 906px;
+}
+.soft-services-span {
+  line-height: 170.4%;
+}
+.cleaning-housekeeping-pest-c {
+  margin: 0;
+  font-size: var(--font-size-2xl);
+  padding-left: var(--padding-sm);
+  color: var(--color-black);
+}
+.soft-services-cleaning-house {
+  position: absolute;
+  top: 1968px;
+  left: 75px;
+  text-align: left;
+  display: inline-block;
+  font-size: var(--font-size-5xl);
+  color: var(--color-brown);
+}
+.scope-of-work1 {
+  line-height: 170.9%;
+}
+.span2 {
+  font-family: var(--font-montserrat);
+}
+.scope-of-work-daily-schedules {
+  position: absolute;
+  top: 2290px;
+  left: 81px;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  font-size: var(--font-size-5xl);
+  color: var(--color-brown);
+}
+.security-services-divxx {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 21.79%;
+  width: 5.36%;
+  top: 37.5%;
+  right: 0;
+  bottom: 40.71%;
+  left: 94.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div {
+  position: absolute;
+  top: 97px;
+  left: 662px;
+  width: 224px;
+  height: 24px;
+}
+.desktop-6 {
+  /* position: relative; */
+  width: 100%;
+  /* height: 2400px; */
+  /* overflow: hidden; */
+ /* background-image: url(../../public/desktop--6@3x.png);*/
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

@@ -2,6 +2,7 @@ import { useCallback } from "react";
 import "./desktop6.css";
 import Futter from "./Futter";
 
+
 const Desktop6 = () => {
   
 
@@ -223,11 +224,11 @@ const Desktop6 = () => {
       </div>
       
        <div style={{marginTop: '1993px', position: 'relative', zIndex: '4', bottom: '-41px'}}>
-        <Futter/>
+        {/* <Futter/> */}
         </div>
        
-
-    </div>
+ 
+    </div> 
     
   );
 };

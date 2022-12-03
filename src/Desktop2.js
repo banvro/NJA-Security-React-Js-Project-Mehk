@@ -109,7 +109,7 @@ const Desktop2 = () => {
       <div className="services-planned-divhi">Services Planned</div>
 
       <div style={{position: 'relative', top: '1022px'}}>
-      <Futter/>
+      {/* <Futter/> */}
       </div>
       {/* <div className="group-div20hi">
         <div className="rectangle-div31hi" />

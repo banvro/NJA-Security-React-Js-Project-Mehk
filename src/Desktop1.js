@@ -6,40 +6,40 @@ import Futter from "./Futter";
 const Desktop1 = () => {
   
 
-  const onGroupContainerClick = useCallback(() => {
-   }, []);
+  // const onGroupContainerClick = useCallback(() => {
+  //  }, []);
 
-  const onABOUTUSTextClick = useCallback(() => {
+  // const onABOUTUSTextClick = useCallback(() => {
+  //   // Please sync "Desktop - 6" to the project
+  // }, []);
+
+  // const onTRAININGTextClick = useCallback(() => {
+  //   // Please sync "Desktop - 6" to the project
+  // }, []);
+
+  // const onCONTACTTextClick = useCallback(() => {
+  //   // Please sync "Desktop - 6" to the project
+  // }, []);
+
+  // const onGroupContainer3Click = useCallback(() => {
+  //   // Please sync "Desktop - 4" to the project
+  // }, []);
+
+  // const onGroupContainer4Click = useCallback(() => {
+  //   // Please sync "Desktop - 5" to the project
+  // }, []);
+
+  // const onTRAININGText2Click = useCallback(() => {
+  //   // Please sync "Desktop - 6" to the project
+  // }, []);
+
+  // const onCONTACTText1Click = useCallback(() => {
     // Please sync "Desktop - 6" to the project
-  }, []);
+  // }, []);
 
-  const onTRAININGTextClick = useCallback(() => {
-    // Please sync "Desktop - 6" to the project
-  }, []);
-
-  const onCONTACTTextClick = useCallback(() => {
-    // Please sync "Desktop - 6" to the project
-  }, []);
-
-  const onGroupContainer3Click = useCallback(() => {
-    // Please sync "Desktop - 4" to the project
-  }, []);
-
-  const onGroupContainer4Click = useCallback(() => {
-    // Please sync "Desktop - 5" to the project
-  }, []);
-
-  const onTRAININGText2Click = useCallback(() => {
-    // Please sync "Desktop - 6" to the project
-  }, []);
-
-  const onCONTACTText1Click = useCallback(() => {
-    // Please sync "Desktop - 6" to the project
-  }, []);
-
-  const onGroupContainer15Click = useCallback(() => {
-    ("");
-  }, []);
+  // const onGroupContainer15Click = useCallback(() => {
+  //   ("");
+  // }, []);
 
   return (
     <>
@@ -52,6 +52,250 @@ const Desktop1 = () => {
       <div className="security-service-div">SECURITY SERVICE</div>
       <div className="for-your-personal-safety">FOR YOUR PERSONAL SAFETY</div>
       <img className="rectangle-icon17hi" alt src="../picture/Rectangle 2.png"></img>
+      <a href="/Contact us">
+        <span className="hlobtnaro heydude prabhu">Request a quote</span>
+        <img className="heydude" src="../../picture/Rectangle 35 (1).png" style={{height: '45px'}} />
+      </a>
+
+
+</div>
+    <div class="map">
+      {/* <div id="map"></div> */}
+      <div>
+        <div class="map-c">
+          <h1 className="heduingcls">WELCOME TO NJA SECURITY PVT. LTD.</h1>
+          <p className="forprea"  style={{marginBottom: '15px'}}>Our company M/S NJA SECURITY PRIVATE LIMITED will pioneer the Industry Services and will set standrds by way of Caliber of personnel, uality of services, Commitment to training and development the high degree of professionalism.</p>
+          <p className="forprea" style={{marginBottom: '13px'}}>With the need based approch, the company will be in the field of providing security for properties, Industries Corporate men and materials against thef, pilferage, sabotage, all kinds of man made threats, strikes and labour unrest. I will pay my utmost attention in assisting the management by way of extra  security measures and staff. I will also render free advice to clients on all security matters.</p>
+
+          <a href="/Read More">
+            <span className="hlobtnaro">READ MORE</span>
+            <img src="../../picture/Rectangle 35 (1).png" style={{marginTop: '12px', height: '45px'}} />
+          </a>
+        </div>
+        
+          <form className="formx" action="home" method="post">
+          <h3 className="formtop">GET STARTED TODAY</h3>
+            <div>
+              <p>
+                <label for="username">Name:</label>
+                <input id="username" name="username" type="text" required/>
+              </p>
+              <p>
+                <label for="password">Contact Number:</label>
+                <input id="password" name="password" type="password" required/>
+              </p>
+              <p>
+                <label for="confirm_password">Email Id:</label>
+                <input id="confirm_password" name="confirm_password" type="password" required/>
+              </p>
+              <p>
+                <input className="hlobtn" type="submit" value="SUBMIT" id="submit" />
+              </p>
+
+              <p className="sownjbtn">Do not fill this form for job enquiry, visit career page for job openings.</p>
+              <p className="sownbtn" style={{marginBottom: '-8px'}}>One or more fields have an error. Please check and try again.</p>
+            </div>
+          </form>
+        </div>
+    </div>
+
+    <div style={{marginTop: '-103px'}}>
+      <h2 className="textar">SECURITY SERVICES</h2>
+      <img className="helloimg" alt="" src="../picture/Vector 2.png" />
+    </div>
+
+ 
+    <div className="mainthingforcard">
+      <div class="grid" id="container">
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged">Guarding/Industrial Security (Manpower)</span>
+            <img class="card__img" src="../imx/1.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">Get trained Security Guard, Supervisor and Security Officer at competitive rate with excellent track record and PCC verified.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged">Transportation of Cash /Valuables</span>
+            <img class="card__img" src="../imx/2.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">Hire cash van for a trip or on monthly basis to safely transport your valuables with state of the art safety features</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged">Security of Ware House/Departmental Store</span>
+            <img class="card__img" src="../imx/3.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">Secure your Departmental Store & Warehouse and mitigate the risk by hiring labour law & factory act compliant NJA Security.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged" style={{marginLeft: '-53px'}}>Night Patrol</span>
+            <img class="card__img" src="../imx/4.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">Secure your modern Commercial or Residential complex with Professional and Trained Security to protect the community 24/7.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged">Electronic Security and Security Equirment</span>
+            <img class="card__img" src="../imx/5.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">Secure your modern Commercial or Residential complex with Professional and Trained Security to protect the community 24/7.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged">Installation and maintenance of security and fire safety system</span>
+            <img class="card__img" src="../imx/6.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">A properly designed, installed, operated, and maintained fire alarm system can reduce the losses associated with an unwanted fire in any building.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged" style={{marginLeft: '-75px'}}>Private Investigation</span>
+            <img class="card__img" src="../imx/7.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">A private investigator a private detective, or inquiry agent is a person who can be hired by individuals or groups to undertake investigatory law services.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged">Security audit/consultancy</span>
+            <img class="card__img" src="../imx/8.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">We have the resources to uncover where weaknesses and security gaps exist throughout your organization. </p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged">Training of Security Staff</span>
+            <img class="card__img" src="../imx/9.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">When the initiative of the professional security guard has entered the private security industry in the world, the different skills must be learned by the security personnel.</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged">Business Executive Protection</span>
+            <img class="card__img" src="../imx/10.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">An executive protection program is a security component in many
+            venues: business, government, entertainment, sports, wealth, and other
+            fields</p>
+            </div>
+          </div>
+        </div>
+        <div class="grid__item item">
+          <div class="card">
+            <span className="imgged" style={{marginLeft: '-56px'}}>Events Security</span>
+            <img class="card__img" src="../imx/11.png" alt="project mehhk imagees" />
+            <div class="card__content">
+              <p class="card__text">Looking for Quick Short Term Security Services for an event? We have
+            experience and expertise in event management.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div class="mapalt" style={{backgroundColor:"#B23C26", marginTop: '32px', maxWidth: '100%'}}>
+      <div>
+      <div class="mrimg">
+          <img class="relimk" src="../imx/last.png" alt="project mehhk imagees" />
+      </div>
+        <div className="btontnm" style={{color:"white"}}>
+        <h1 className="uok">TRAINING</h1>
+        <p className="forprea"  style={{marginBottom: '8px',fontSize: '18px'}}>The selected candidates undergo a 5-days training program at our training
+          academies where they are trained on the following:-
+        <br />
+        <br />
+          (A) To fight and control various types of fire.<br />
+          (B) Industrial Safety.<br />
+          (C) Documentation<br />
+          (D) Handling communication equipment (Intercom, Telephone, Fax and
+          Walkie-talkie)
+          </p>
+
+          <p>
+            <span className="hlobtnaro">READ MORE</span>
+            <img src="../../picture/Rectangle 35 (1).png" style={{marginTop: '12px', height: '45px'}} />
+          </p>
+           
+        </div>
+      </div>
+  </div>
+
+
+  <div>
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-6">
+            <h6>About</h6>
+            <p class="text-justify">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
+          </div>
+
+          <div class="col-xs-6 col-md-3">
+            <h6>Categories</h6>
+            <ul class="footer-links">
+              <li><a href="http://scanfcode.com/category/c-language/">C</a></li>
+              <li><a href="http://scanfcode.com/category/front-end-development/">UI Design</a></li>
+              <li><a href="http://scanfcode.com/category/back-end-development/">PHP</a></li>
+              <li><a href="http://scanfcode.com/category/java-programming-language/">Java</a></li>
+              <li><a href="http://scanfcode.com/category/android/">Android</a></li>
+              <li><a href="http://scanfcode.com/category/templates/">Templates</a></li>
+            </ul>
+          </div>
+
+          <div class="col-xs-6 col-md-3">
+            <h6>Quick Links</h6>
+            <ul class="footer-links">
+              <li><a href="http://scanfcode.com/about/">About Us</a></li>
+              <li><a href="http://scanfcode.com/contact/">Contact Us</a></li>
+              <li><a href="http://scanfcode.com/contribute-at-scanfcode/">Contribute</a></li>
+              <li><a href="http://scanfcode.com/privacy-policy/">Privacy Policy</a></li>
+              <li><a href="http://scanfcode.com/sitemap/">Sitemap</a></li>
+            </ul>
+          </div>
+        </div>
+        <hr />
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-sm-6 col-xs-12">
+            <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
+         <a href="#">Scanfcode</a>.
+            </p>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <ul class="social-icons">
+              <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
+              <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>   
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+      {/* <div>
       <div className="our-company-ms-nja-security-p">
         Our company M/S NJA SECURITY PRIVATE LIMITED will pioneer the Industry
         Services and will set standrds by way of Caliber of personnel, uality of
@@ -73,11 +317,14 @@ const Desktop1 = () => {
         <img style={{marginTop:"700px"}}className="rectangle-icon1" alt="" src="../picture/Rectangle 4.png" />
         <Link  to ='/Read More'className="read-more-div" style={{marginTop:"700px"}}>Read More</Link>
         <img className="vector-icon1" alt="" src="../picture/Vector (2).png" />
-      </div>
-      <div className="rectangle-div1" />
+      </div> */}
+
+
+      
+      {/* <div className="rectangle-div1" /> */}
       {/* <div className="the-field-is-required">The field is required.</div>
       <div className="the-field-is-required1">The field is required.</div> */}
-      <div className="do-not-fill-this-form-for-job">
+      {/* <div className="do-not-fill-this-form-for-job">
         <p className="do-not-fill">
           Do not fill this form for job enquiry, visit career page for job
         </p>
@@ -96,7 +343,7 @@ const Desktop1 = () => {
           <div className="rectangle-div6" />
           <button className="submit-div btnchng"><span className="spnbtn">SUBMIT</span></button>
         </div>
-      </form>
+      </form> 
       <div className="group-div2">
         <div className="one-or-more-fields-have-an-err">
           <p className="do-not-fill">{`One or more fields have an error. Please check and `}</p>
@@ -104,11 +351,24 @@ const Desktop1 = () => {
         </div>
         <div className="rectangle-div7" />
       </div>
+      </div> */}
 
-     
-      
-      <img className="vector-icon2" alt="" src="../picture/Vector 2.png" />
+
+
+
+
+
+
+{/* <img className="vector-icon2" alt="" src="../picture/Vector 2.png" />
       <div className="security-services-div">SECURITY SERVICES</div>
+      
+      <div className="rectangle-div19" style={{width: "100%"}} /> */}
+
+
+
+
+
+      {/* <div>
       <div className="group-div3" onClick={onGroupContainer3Click}>
         <div className="rectangle-div8" />
         <img className="rectangle-icon2" alt="" src="../picture/Rectangle 16.png" />
@@ -228,6 +488,13 @@ const Desktop1 = () => {
         </div>
         <div className="get-trained-security-guard-su">{`We have the resources to uncover where weaknesses and security gaps exist throughout your organization. `}</div>
       </div>
+      </div>
+
+     
+      
+      <img className="vector-icon2" alt="" src="../picture/Vector 2.png" />
+      <div className="security-services-div">SECURITY SERVICES</div>
+      
       <div className="rectangle-div19" style={{width: "100%"}} />
       
       <div className="training-div1">TRAINING</div>
@@ -264,11 +531,47 @@ const Desktop1 = () => {
       <div className="group-div16">
         <img className="vector-icon5" alt="" src="../vector3.svg" />
       </div>
-    </div>
+    </div> */}
 
     <div className="letsfooter" style={{top: '1646px'}}>
-      <Futter/>
+      {/* <Futter/> */}
     </div>
+
+
+{/* 
+    <div>
+    <div class="grid">
+      <div class="grid__item item">
+        <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains" />
+          <div class="card__content">
+            <h1 class="card__header">A starry night</h1>
+            <p class="card__text">Look up at the night sky, and find yourself <strong>immersed</strong> in the amazing mountain range of Aspen.</p>
+            <button class="card__btn">Explore <span>&rarr;</span></button>
+          </div>
+        </div>
+      </div>
+      <div class="grid__item item">
+        <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1485160497022-3e09382fb310?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Desert" />
+          <div class="card__content">
+            <h1 class="card__header">Misty mornings</h1>
+            <p class="card__text">Capture the stunning <strong>essence</strong> of the early morning sunrise in the Californian wilderness.</p>
+            <button class="card__btn">Explore <span>&rarr;</span></button>
+          </div>
+        </div>
+      </div>
+      <div class="grid__item">
+        <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1506318164473-2dfd3ede3623?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=3300&amp;q=80" alt="Canyons" />
+          <div class="card__content">
+            <h1 class="card__header">Utah sunsets</h1>
+            <p class="card__text">Sunsets over the <strong>stunning</strong> Utah Canyonlands, is truly something much more than incredible.</p>
+            <button class="card__btn">Explore <span>&rarr;</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+     */}
+     
     </>
     
   );

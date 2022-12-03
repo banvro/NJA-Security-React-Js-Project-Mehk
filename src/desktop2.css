@@ -488,3 +488,39 @@
   color: var(--color-black);
   font-family: var(--font-montserrat);
 }
+
+
+
+@media only screen and (max-width: 600px) {
+  .rectangle-icon17hi{
+    height: 309px;
+  }
+  .welcome-to-nja-security-pvt-l1hi {
+    top: 486px;
+    left: 49px;
+  }
+  .our-company-ms-nja-security-p1hi {
+    position: absolute;
+    top: 605px;
+    left: 12px;
+    width:388px;
+  }
+  .with-the-need-based-approch-t1hi {
+    top: 911px;
+    left: 16px;
+    width: 366px;
+}
+.members-of-management-will-behi {
+  top: 1451px;
+  left: 20px;
+}
+.services-planned-divhi {
+  top: 1574px;
+  left: 75px;
+}
+  .guardingindustrial-security1hi {
+    top: 1640px;
+    left: 7px;
+  }
+
+}

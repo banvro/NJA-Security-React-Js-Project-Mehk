@@ -76,7 +76,7 @@
   color: var(--color-gray-300);
   text-align: justify;
   display: inline-block;
-  width: 1290px;
+  width: 90%;
 }
 .our-services-span {
   line-height: 129.9%;
@@ -110,6 +110,7 @@
   margin: 0;
   font-size: var(--font-size-2xl);
   color: var(--color-gray-300);
+  width: 1222px;
 }
 .our-services-securit-guard-a {
   position: absolute;
@@ -117,7 +118,7 @@
   left: 75px;
   text-align: justify;
   display: inline-block;
-  width: 1290px;
+  /* width: 100%; */
   font-size: var(--font-size-5xl);
   color: var(--color-brown);
 }
@@ -246,10 +247,127 @@
   /* overflow: hidden; */
  /* background-image: url(../../public/desktop--6@3x.png);*/
   /* background-size: cover; */
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; 
   background-position: top;
   text-align: center;
   font-size: var(--font-size-base);
   color: var(--color-black);
   font-family: var(--font-montserrat);
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  .rectangle-div1{
+    height: 297px;
+  }
+  .we-take-this-opportunity-to-in {
+    font-size: 22px !important;
+    padding-left: 13px;
+    position: absolute;
+    top: 537px;
+    left: 2px;
+    font-weight: 500;
+    color: var(--color-gray-300);
+    text-align: justify;
+    display: inline-block;
+    width: 95%;
+    padding-right: 14px;
+}
+ul.ul-list {
+  display: flex !important;
+  justify-content: center !important;
+  gap: 27px !important;
+  margin-top: -41px !important;
+  width: 78%;
+  flex-wrap: wrap;
+  margin-left: 50px !important;
+  margin-right: 33px !important;
+  
+}
+.nja-logo-1, .rectangle-icon {
+  position: absolute;
+  top: 24px !important;
+  left: 13px !important;
+  height: 75px !important;
+
+}
+.h4 {
+  
+  margin-left: 4px !important;
+  padding-top: 87px !important;
+  font-size: 14px !important;
+  line-height: 23px;
+}
+.about-us-div {
+  top: 482px;
+  left: 115px;
+  font-weight: 600;
+}
+.our-services-securit-guard-a {
+  position: absolute;
+  top: 1382px;
+  left: 36px;
+  text-align: justify;
+  display: inline-block;
+  font-size: 30px;
+}
+
+.company-registration-gst-no-r {
+  position: absolute;
+  top: 1852px;
+  left: 77px;
+  font-size: var(--font-inherit);
+  line-height: 129.4%;
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+}
+
+
+.soft-services-cleaning-house {
+  position: absolute;
+  top: 2060px;
+  left: 54px;
+  text-align: left;
+  display: inline-block;
+  font-size: var(--font-size-5xl);
+  color: var(--color-brown);
+}
+
+.scope-of-work-daily-schedules {
+  position: absolute;
+  top: 2400px;
+  left: 57px;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  font-size: var(--font-size-5xl);
+  color: var(--color-brown);
+}
+
+
+.securit-guard-armedunarmed {
+  margin: 0;
+  font-size: 21px;
+  padding-left: var(--padding-sm);
+  color: var(--color-gray-300);
+}
+
+
+.we-comply-with-all-statutory-o {
+  margin: 0;
+  font-size: 24px;
+  color: var(--color-gray-300);
+  width:341px;
+  
+}
+
+
+
+
+
+
 }

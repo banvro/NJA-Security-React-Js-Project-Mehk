@@ -162,7 +162,7 @@
   border-radius: var(--br-xs);
   border: 2px solid var(--color-gray-100);
   box-sizing: border-box;
-  width: 414px;
+  width: 340px;
   height: 72px;
 }
 .rectangle-div23,
@@ -184,7 +184,7 @@
 .rectangle-div26 {
   top: 1210px;
   left: 513px;
-  width: 852px;
+  width: 789px;
   height: 251px;
 }
 .contact-persons-name {
@@ -310,7 +310,7 @@
 .nja-logo-21 {
   /* position: absolute; */
   top: 75px;
-  left: 93px;
+  left: 75px;
   width: 165px;
   height: 185px;
   object-fit: cover;
@@ -647,4 +647,106 @@
   margin-left: -82px;
   color: white;
 
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  .contact-us-div{
+    top:442px;
+  }
+  .gf-gali-no-19-bhagwati-ga1{
+    top:500px;
+    left: 83px;
+  }
+  .group-icon3{
+    top: 500px;
+    left: 18px;
+  }
+  .group-icon4{
+    top: 600px;
+    left: 21px;
+  }
+  .njasecurgmailcom-div1 {
+    top: 600px;
+    left: 98px;
+  }
+  .group-icon5 {
+    top: 670px;
+    left:24px;
+  }
+  .div2 {
+    top: 670px;
+    left: 110px;
+  }
+  .div3 {
+    top: 700px;
+    left: 115px;
+  }
+  .request-a-quote1 {
+    top: 770px;
+    left: 25px;
+  }
+  .please-fill-up-the-inquiry-for {
+    width: 375px;
+    top: 820px;
+    left: 17px;
+  }
+  .contact-persons-name {
+    top: 900px;
+    left: 75px;
+  }
+  .map-work {
+    margin-top: 1493px;
+  }
+  .rectangle-div22 {
+    width: 296px;
+    top: 930px;
+    left: 60px;
+  }
+  .contact-number-div1 {
+    top: 1020px;
+    left: 75px;
+  }
+   .rectangle-div23 {
+    top: 1050px;
+    left: 60px;
+    width: 296px;
+   }
+   .rectangle-icon15{
+    height: 260px;
+   }
+    .email-div {
+      top: 1140px;
+      left: 75px;
+   }
+   .rectangle-div24{
+    top: 1170px;
+    left: 60px;
+    width: 296px;
+   }
+   .company-name-div {
+    top: 1277px;
+    left: 75px;
+}
+.rectangle-div25 {
+  top: 1305px;
+  left: 60px;
+  width: 296px;
+}
+.your-inquiry-div {
+  top: 1395px;
+  left: 75px;
+}
+.rectangle-div26 {
+  top: 1433px;
+  left: 60px;
+  width: 296px;
+  height: 161px;
+}
+.group-div17 {
+
+  top: 1616px;
+  left: 125px;
+}
 }

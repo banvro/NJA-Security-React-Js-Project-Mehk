@@ -12,7 +12,7 @@
     font-size: var(--font-size-lg);
     font-weight: 500;
     text-align: justify;
-    display: inline-block;
+    display: inline-block; 
   }
   .nja-logo-2 {
     position: absolute;
@@ -146,7 +146,7 @@
     /* position: absolute; */
     top: 146px;
     left: 700px;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.03em; 
     line-height: 160.9%;
     font-weight: 500;
     display: inline-block;
@@ -367,6 +367,149 @@
   
 
 
+  /* .dummy_page {
+    height: 200px;
+    width: 100%;
+    background-color: #f0f0f0;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 60px 0px;
+  } */
+  /* STYLES SPECIFIC TO FOOTER  */
+  .footer {
+    width: 100%;
+    position: relative;
+    height: auto;
+    background-color: #070617;
+  }
+  .footer .col {
+    width: 22%;
+    text-align: center;
+    height: auto;
+    float: left;
+    -webkit-box-sizing: border-box;
+    padding: 0px 20px 20px 20px;
+  }
+
+  .bynow{
+    padding: 18px;
+    padding-top: 26px;
+    padding-bottom: 37px;
+  }
+
+  .meheak{
+    color: #B23C26;
+    margin-left: -81px;
+    width: 449%;
+    font-size: 23px;
+    font-weight: 500;
+  }
+
+  .noxyz{
+    border: none;
+    width: 146px !important;
+    height: 176px;
+    margin-left: -77px;
+  }
+  .footer .col h1 {
+    font-family: inherit;
+    font-size: 19px;
+    padding: 20px 0px 5px 0px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-bottom: 24px;
+
+  }
+  .footer .col ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .hloarrow{  
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+    height: 10px;
+    width: 10px;
+    transform: rotate(-45deg);
+    color: white;
+    position: absolute;
+    margin-left: 36px;
+    margin-top: 10px;
+  }
+  .footer .col ul li {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 400;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+    -webkit-transition: .2s;
+    margin-bottom: 1px;
+    text-align: start;
+    margin-left: 62px;
+    letter-spacing: 1px;
+  }
+  .social ul li {
+    display: inline-block;
+    padding-right: 5px !important;
+  }
+  
+  .footer .col ul li:hover {
+    color: #ffffff;
+    transition: .1s;
+    -webkit-transition: .1s;
+    -moz-transition: .1s;
+  }
+  .clearfix {
+    clear: both;
+  }
+  @media only screen and (min-width: 1280px) {
+    .contain {
+      width: 92%;
+    }
+  }
+  @media only screen and (max-width: 1139px) {
+    .contain .social {
+      width: 1000px;
+      display: block;
+    }
+    .social h1 {
+      margin: 0px;
+    }
+  }
+  @media only screen and (max-width: 950px) {
+    .footer .col {
+      width: 33%;
+    }
+    .footer .col h1 {
+      font-size: 14px;
+    }
+    .footer .col ul li {
+      font-size: 13px;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+      .footer .col {
+        width: 50%;
+      }
+      .footer .col h1 {
+        font-size: 14px;
+      }
+      .footer .col ul li {
+        font-size: 13px;
+        width: 100%;
+      }
+  }
+  @media only screen and (max-width: 340px) {
+    .footer .col {
+      width: 100%;
+    }
+    
+  }
+
 
 
 
@@ -375,6 +518,38 @@
   /* new footer  */
 
   @media only screen and (max-width: 600px) {
+    .noxyz {
+      border: none;
+      width: 213px !important;
+      height: 227px;
+      margin-left: 33px;
+  }
+  .meheak {
+    color: #B23C26;
+    margin-left: -1px;
+    width: 146% !important;
+    font-size: 23px;
+    font-weight: 500;
+    margin-top: 6px;
+}
 
-  
+.hloasu{
+  float: none !important ;
+  width: 58% !important;
+}
+
+.conres{
+  margin-left: -55px;
+}
+
+.thisisme{
+  margin-left: 44px;
+}
+.imgrs{
+  width: 80% !important;
+}
+
+.dotertop{
+  margin-top: -212px !important;
+}
   }

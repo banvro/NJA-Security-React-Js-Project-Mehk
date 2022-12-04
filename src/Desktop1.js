@@ -68,7 +68,7 @@ const Desktop1 = () => {
           <p className="forprea" style={{marginBottom: '13px'}}>With the need based approch, the company will be in the field of providing security for properties, Industries Corporate men and materials against thef, pilferage, sabotage, all kinds of man made threats, strikes and labour unrest. I will pay my utmost attention in assisting the management by way of extra  security measures and staff. I will also render free advice to clients on all security matters.</p>
 
           <a href="/Read More">
-            <span className="hlobtnaro">READ MORE</span>
+            <span className="hlobtnaro mrex">READ MORE</span>
             <img src="../../picture/Rectangle 35 (1).png" style={{marginTop: '12px', height: '45px'}} />
           </a>
         </div>
@@ -231,7 +231,7 @@ const Desktop1 = () => {
           </p>
 
           <p>
-            <span className="hlobtnaro">READ MORE</span>
+            <span className="hlobtnaro mrex">READ MORE</span>
             <img src="../../picture/Rectangle 35 (1).png" style={{marginTop: '12px', height: '45px'}} />
           </p>
            
@@ -240,7 +240,7 @@ const Desktop1 = () => {
   </div>
 
 
-  <div>
+  {/* <div>
     <footer class="site-footer">
       <div class="container">
         <div class="row">
@@ -293,7 +293,7 @@ const Desktop1 = () => {
         </div>
       </div>
     </footer>
-  </div>
+  </div> */}
 
       {/* <div>
       <div className="our-company-ms-nja-security-p">
@@ -533,10 +533,10 @@ const Desktop1 = () => {
       </div>
     </div> */}
 
-    <div className="letsfooter" style={{top: '1646px'}}>
-      {/* <Futter/> */}
+    <div className="dotertop" style={{marginTop: '44px'}}>
+      <Futter/>
     </div>
-
+    
 
 {/* 
     <div>

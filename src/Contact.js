@@ -40,19 +40,19 @@ const Contact = () => {
         hours
       </div>
       <div className="gf-gali-no-19-bhagwati-ga1">
-        <p className="gf-gali1">18, G.F., Gali No. 19, Bhagwati</p>
-        <p className="gf-gali1">Garden Extn., Uttam Nagar,</p>
-        <p className="new-delhi-110059-p1">New Delhi-110059</p>
+        <p className="gf-gali1 hloprea">18, G.F., Gali No. 19, Bhagwati</p>
+        <p className="gf-gali1 hloprea">Garden Extn., Uttam Nagar,</p>
+        <p className="new-delhi-110059-p1 hloprea">New Delhi-110059</p>
       </div>
-      <div className="njasecurgmailcom-div1">njasecur@gmail.com</div>
-      <div className="div2">99711-87836</div>
-      <div className="div3">87504-02774</div>
-      <div className="request-a-quote1">REQUEST A QUOTE</div>
-     
+      <div className="njasecurgmailcom-div1 hloprea">njasecur@gmail.com</div>
+      <div className="div2 hloprea">99711-87836</div>
+      <div className="div3 hloprea">87504-02774</div>
+      <div className="request-a-quote1 hloprea">REQUEST A QUOTE</div>
+      
       <form>
-      <input className="rectangle-div22 hlocss" type="text" name="name" placeholder="Enter Your Name" required/>
+      <input className="rectangle-div22 hlocss inputfields" type="text" name="name" placeholder="Enter Your Name" required/>
       <input className="rectangle-div23 hlocss" type="number" name="contact" placeholder="Enter your Contact Number" required/>
-      <input className="rectangle-div25 hlocss" type="text" name="name" placeholder="Enter your Company Name" required/>
+      <input className="rectangle-div25 hlocss inputfields" type="text" name="name" placeholder="Enter your Company Name" required/>
       <input className="rectangle-div24 hlocss" type="email" name="email" placeholder="Enter your Email-ID" required/>
       <textarea className="rectangle-div26 hlocss" type="text" name="name" placeholder="Enter your Inquiry here...." required/>
       <div className="contact-persons-name">Contact Persons Name:</div>
@@ -67,7 +67,7 @@ const Contact = () => {
       <img className="group-icon5" alt="" src="../picture/Group 9.png" />
       <div className="group-div17">
         <div className="rectangle-div27" />
-        <button className="submit-div1 btnchng" style={{top: '-1px'}}><span className="btnxspan">SUBMIT</span></button>
+        <button className="submit-div1 btnchng" style={{top: '-18px', left: '1px', height: '58px'}}><span className="btnxspan">SUBMIT</span></button>
       </div>
       </form>
       <div className="map-work">

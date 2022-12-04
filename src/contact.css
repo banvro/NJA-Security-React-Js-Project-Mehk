@@ -12,7 +12,7 @@
 .vector-icon6 {
   top: 20px;
   height: 136px;
-}
+} 
 .contact-div3 {
   position: absolute;
   top: 97px;
@@ -86,6 +86,24 @@
   font-weight: 500;
   display: inline-block;
 }
+
+@media only screen and (max-width: 600px) {
+  .contact-us-div {
+    top: 446px !important;
+    left: 24px !important;
+    font-size: 28px !important;
+    font-weight: 600 !important;
+}
+
+  .hloprea{
+    font-size: 17px;
+    font-weight: 700 !important;
+}
+
+
+  }
+
+
 .gf-gali-no-19-bhagwati-ga1 {
   top: 907px;
   white-space: pre-wrap;
@@ -649,12 +667,8 @@
 
 }
 
-
-
 @media only screen and (max-width: 600px) {
-  .contact-us-div{
-    top:442px;
-  }
+  
   .gf-gali-no-19-bhagwati-ga1{
     top:500px;
     left: 83px;
@@ -685,16 +699,32 @@
   }
   .request-a-quote1 {
     top: 770px;
-    left: 25px;
+    left: 20px;
+    font-size: 30px;
+    font-weight: 600 !important;
   }
   .please-fill-up-the-inquiry-for {
-    width: 375px;
+    width: 91%;
     top: 820px;
     left: 17px;
+    font-size: 19px;
+    color: black;
   }
+  .inputfields {
+    background: #f5f5f514;
+    border: 1px solid #8A8888;
+    font-size: 22px !important;
+    padding: 0.8em 0.5em;
+    border-radius: 8px;
+    height: 52px;
+    margin-bottom: -17px;
+    width: 86% !important;
+    left: 27px;
+}
   .contact-persons-name {
-    top: 900px;
-    left: 75px;
+    top: 894px;
+    left: 29px;
+    font-size: 22px;
   }
   .map-work {
     margin-top: 1493px;
@@ -705,29 +735,37 @@
     left: 60px;
   }
   .contact-number-div1 {
-    top: 1020px;
-    left: 75px;
+    top: 1015px;
+    left: 32px;
   }
    .rectangle-div23 {
     top: 1050px;
-    left: 60px;
-    width: 296px;
+    left: 28px;
+    width: 86%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 60px;
    }
    .rectangle-icon15{
     height: 260px;
    }
     .email-div {
-      top: 1140px;
-      left: 75px;
+      top: 1137px;
+    left: 37px;
    }
    .rectangle-div24{
     top: 1170px;
     left: 60px;
     width: 296px;
+    left: 28px;
+    width: 86%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 60px;
    }
    .company-name-div {
-    top: 1277px;
-    left: 75px;
+    top: 1267px;
+    left: 31px;
 }
 .rectangle-div25 {
   top: 1305px;
@@ -735,18 +773,33 @@
   width: 296px;
 }
 .your-inquiry-div {
-  top: 1395px;
-  left: 75px;
+  top: 1393px;
+  left: 33px;
 }
 .rectangle-div26 {
   top: 1433px;
-  left: 60px;
-  width: 296px;
-  height: 161px;
+    left: 27px;
+    width: 86%;
+    height: 161px;
+    border: 1px solid gray;
 }
 .group-div17 {
 
   top: 1616px;
   left: 125px;
 }
+
+.heroclus{
+  font-size: 35px;
+}
+.aster{
+  font-size: 23px !important;
+}
+}
+.heroclus{
+  font-size: 29px;
+}
+
+.aster{
+  font-size: 27px;
 }

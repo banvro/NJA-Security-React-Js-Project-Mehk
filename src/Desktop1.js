@@ -81,12 +81,12 @@ const Desktop1 = () => {
                 <input id="username" name="username" type="text" required/>
               </p>
               <p>
-                <label for="password">Contact Number:</label>
-                <input id="password" name="password" type="password" required/>
+                <label for="number">Contact Number:</label>
+                <input id="number" name="number" type="text" required/>
               </p>
               <p>
-                <label for="confirm_password">Email Id:</label>
-                <input id="confirm_password" name="confirm_password" type="password" required/>
+                <label for="Email">Email Id:</label>
+                <input id="Email" name="Email" type="text" required/>
               </p>
               <p>
                 <input className="hlobtn" type="submit" value="SUBMIT" id="submit" />
@@ -99,7 +99,7 @@ const Desktop1 = () => {
         </div>
     </div>
 
-    <div style={{marginTop: '-103px'}}>
+    <div style={{marginTop: '69px'}}>
       <h2 className="textar">SECURITY SERVICES</h2>
       <img className="helloimg" alt="" src="../picture/Vector 2.png" />
     </div>
@@ -108,88 +108,88 @@ const Desktop1 = () => {
     <div className="mainthingforcard">
       <div class="grid" id="container">
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Guarding" class="card">
             <span className="imgged">Guarding/Industrial Security (Manpower)</span>
             <img class="card__img" src="../imx/1.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">Get trained Security Guard, Supervisor and Security Officer at competitive rate with excellent track record and PCC verified.</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Transportation" class="card">
             <span className="imgged">Transportation of Cash /Valuables</span>
             <img class="card__img" src="../imx/2.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">Hire cash van for a trip or on monthly basis to safely transport your valuables with state of the art safety features</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Security" class="card">
             <span className="imgged">Security of Ware House/Departmental Store</span>
             <img class="card__img" src="../imx/3.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">Secure your Departmental Store & Warehouse and mitigate the risk by hiring labour law & factory act compliant NJA Security.</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Night" class="card">
             <span className="imgged" style={{marginLeft: '-53px'}}>Night Patrol</span>
             <img class="card__img" src="../imx/4.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">Secure your modern Commercial or Residential complex with Professional and Trained Security to protect the community 24/7.</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Electronic" class="card">
             <span className="imgged">Electronic Security and Security Equirment</span>
             <img class="card__img" src="../imx/5.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">Secure your modern Commercial or Residential complex with Professional and Trained Security to protect the community 24/7.</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Installation" class="card">
             <span className="imgged">Installation and maintenance of security and fire safety system</span>
             <img class="card__img" src="../imx/6.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">A properly designed, installed, operated, and maintained fire alarm system can reduce the losses associated with an unwanted fire in any building.</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Private" class="card">
             <span className="imgged" style={{marginLeft: '-75px'}}>Private Investigation</span>
             <img class="card__img" src="../imx/7.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">A private investigator a private detective, or inquiry agent is a person who can be hired by individuals or groups to undertake investigatory law services.</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Audit" class="card">
             <span className="imgged">Security audit/consultancy</span>
             <img class="card__img" src="../imx/8.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">We have the resources to uncover where weaknesses and security gaps exist throughout your organization. </p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Staff" class="card">
             <span className="imgged">Training of Security Staff</span>
             <img class="card__img" src="../imx/9.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">When the initiative of the professional security guard has entered the private security industry in the world, the different skills must be learned by the security personnel.</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="Buisness" class="card">
             <span className="imgged">Business Executive Protection</span>
             <img class="card__img" src="../imx/10.png" alt="project mehhk imagees" />
             <div class="card__content">
@@ -197,17 +197,17 @@ const Desktop1 = () => {
             venues: business, government, entertainment, sports, wealth, and other
             fields</p>
             </div>
-          </div>
+          </Link>
         </div>
         <div class="grid__item item">
-          <div class="card">
+          <Link to="/Event"class="card">
             <span className="imgged" style={{marginLeft: '-56px'}}>Events Security</span>
             <img class="card__img" src="../imx/11.png" alt="project mehhk imagees" />
             <div class="card__content">
               <p class="card__text">Looking for Quick Short Term Security Services for an event? We have
             experience and expertise in event management.</p>
             </div>
-          </div>
+          </Link>
         </div>
       </div>
     </div>
@@ -260,7 +260,7 @@ const Desktop1 = () => {
               <li><a href="http://scanfcode.com/category/templates/">Templates</a></li>
             </ul>
           </div>
-
+                 
           <div class="col-xs-6 col-md-3">
             <h6>Quick Links</h6>
             <ul class="footer-links">

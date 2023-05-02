@@ -490,6 +490,10 @@
     .footer .col ul li {
       font-size: 13px;
     }
+
+    .mrs{
+      margin-left : 30px;
+    }
   }
   @media only screen and (max-width: 500px) {
       .footer .col {

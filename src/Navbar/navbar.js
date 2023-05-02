@@ -20,8 +20,24 @@ const Navbar = () => {
                     <li className="li-list">
                         <Link to="/About us">ABOUT US</Link>
                     </li>
-                    <li className="li-list" id='security'>
-                    SECURITY SERVICES
+                    <li className="li-list">
+                        <div class="dropdown">
+                        <button class="dropbtn">Services</button>
+                        <div class="dropdown-content li-list">
+                            <a href="Guarding">Guarding/Industrial Security</a>
+                            <a href="Transportation">Transportation of Cash</a>
+                            <a href="Security">Security of Ware Houses</a>
+                            <a href="Night">Night Patrol</a>
+                            <a href="Electronic">Electronic Security</a>
+                            <a href="Equipment">Security Equipment</a>
+                            <a href="Installation">Fire safety systems</a>
+                            <a href="Private">Private Investigation</a>
+                            <a href="Audit">Security audit/consultancy</a>
+                            <a href="Staff">Training of Security Staff</a>
+                            <a href="Buisness">Business Executive Protection</a>
+                            <a href="Event">Events Security</a>
+                        </div>
+                    </div>
                     </li>
                     <li className="li-list">
                         <Link to="/training">TRAINING</Link>
@@ -32,6 +48,8 @@ const Navbar = () => {
                     </li>
                 </ul>
                 </div>
+
+               
                 
               
 

@@ -477,7 +477,7 @@
 .desktop-2hi {
   position: relative;
   width: 100%;
-  height: 2402px;
+  height: auto;
   overflow: hidden;
   /*background-image: url(../../public/desktop--2@3x.png);*/
   background-size: cover;

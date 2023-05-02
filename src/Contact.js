@@ -77,8 +77,8 @@ const Contact = () => {
        
         <img className="vector-icon7" alt="" src="../vector3.svg" />
       </div>
-      <div style={{position:"relative", marginTop: '-370px'}}>
-        {/* <Futter /> */}
+      <div style={{position:"relative", marginTop: '40px'}}>
+        <Futter />
       </div>
     </div>
   );

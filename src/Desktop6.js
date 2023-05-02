@@ -22,22 +22,22 @@ const Desktop6 = () => {
     <div className="desktop-6">      
       <img className="rectangle-div1" alt="" src="../picture/Rectangle 2.png" ></img>
       <div className="we-take-this-opportunity-to-in">
-        <p className="we-take-this aster" >
+        <p className="we-take-this-aster hlop" >
           We take this opportunity to introduse NJA SECURITY PVT. LTD. as a
           premier organization dealing with the security Manpower, house
           keeping, pantry service, Labor supply on contact basis. We have a
           structured organization providing fully trained manpower.
         </p>
         <p className="we-take-this">&nbsp;</p>
-        <p className="we-take-this aster" >{`Team NJA SECURITY PVT. LTD. is a leading security services and housekeeping expert in UP/ Delhi NCR & aaHaryana offering a full range of option to help business and individuals choose thir way in the contemporary world of work, through our botton line approach, long term relationships based on integrity, flexibility and performance.`}</p>
+        <p className="we-take-this-aster hlop" >{`Team NJA SECURITY PVT. LTD. is a leading security services and housekeeping expert in UP/ Delhi NCR & aaHaryana offering a full range of option to help business and individuals choose thir way in the contemporary world of work, through our botton line approach, long term relationships based on integrity, flexibility and performance.`}</p>
         <p className="we-take-this">&nbsp;</p>
-        <p className="a-comprehensible-proposal aster" >
+        <p className="a-comprehensible-proposal aster hlop" >
           A comprehensible proposal for all the services to enable smooth
           running of facility is enclosed here with in manpower and cost sheet.
           The company provides the folliwing services to our precious clients.
         </p>
       </div>
-      <div className="our-services-securit-guard-a">
+      <div className="our-services-securit-guard-a dox">
         <p className="we-take-this heroclus">
           <span className="our-services-span">Our Services:</span>
         </p>
@@ -88,8 +88,8 @@ const Desktop6 = () => {
             <span className="span1"></span>
           </span>
         </p>
-        <p className="we-take-this">
-          <span className="business-specification-span">
+        <p className="we-take-this doy">
+          <span className="business-specification-span ">
             <span className="business-specification-span1 heroclus">
               Business Specification:
             </span>
@@ -104,8 +104,8 @@ const Desktop6 = () => {
           </span>
         </p>
       </div>
-      <div className="company-registration-gst-no-r">
-        <ul className="company-registration-gst-no-r1">
+      <div className="company-registration-gst-no-r doa newdivs">
+        <ul className="company-registration-gst-no-r1 ">
           <li className="security-superviser-civillian">
             Company Registration
           </li>
@@ -125,7 +125,7 @@ const Desktop6 = () => {
       
    
       <div className="soft-services-cleaning-house">
-        <p className="we-take-this">
+        <p className="we-take-this dob ksbjd">
           <span className="soft-services-span">
             <span className="business-specification-span1 heroclus">Soft Services</span>
           </span>
@@ -223,8 +223,8 @@ const Desktop6 = () => {
      
       </div>
       
-       <div style={{marginTop: '1993px', position: 'relative', zIndex: '4', bottom: '-41px'}}>
-        {/* <Futter/> */}
+       <div className="mrelement">
+        <Futter/>
         </div>
        
  

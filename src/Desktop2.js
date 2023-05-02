@@ -85,7 +85,7 @@ const Desktop2 = () => {
             Security of Ware Houses/Departmental Stores.
           </li>
           <li className="transportation-of-cashvaluablhi">Night Patrol</li>
-          <li className="transportation-of-cashvaluabl">
+          <li className="transportation-of-cashvaluablhi">
             Electronic Security and Security Equipment
           </li>
           <li className="transportation-of-cashvaluablhi">

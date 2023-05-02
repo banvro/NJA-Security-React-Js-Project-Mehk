@@ -2,7 +2,7 @@
 .vector-icon {
   position: absolute;
   left: 0;
-  width: 1440px;
+  width: 100%;
 }
 .rectangle-div {
   top: 0;
@@ -62,9 +62,10 @@
 }
 .we-provide-customised-cash-van {
   position: absolute;
-  top: 820px;
-  left: 75px;
-  font-size: var(--font-size-3xl);
+  top: 745px;
+  left: 44px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 22px;
   font-weight: 500;
   color: var(--color-gray-300);
   text-align: justify;
@@ -77,14 +78,20 @@
 .cash-van-safety-features {
   margin-block-start: 0;
   margin-block-end: 0;
+  left:46px;
+  width: 1280px;
+  font-size: 27px;
 }
 .our-cash-van {
   font-weight: 500;
+  font-size: 20px;
 }
 .our-cash-van-is-equipped-with {
   margin-block-start: 0;
   margin-block-end: 0;
   color: var(--color-gray-300);
+  left: 46px;
+  width:1280px;
 }
 .span {
   line-height: 129.9%;
@@ -94,6 +101,8 @@
 }
 .if-you-are-looking-to-transpor {
   margin: 0;
+  left: 46px;
+  width:1280px;
 }
 .cash-van-safety-features-our-c,
 .transportation-of-cashvaluabl {
@@ -103,9 +112,12 @@
   display: inline-block;
 }
 .cash-van-safety-features-our-c {
-  top: 1009px;
-  font-size: var(--font-size-3xl);
-  width: 1290px;
+  top: 933px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  width: 100%;
+  left:0px;
 }
 .transportation-of-cashvaluabl {
   top: 750px;
@@ -475,9 +487,9 @@
   height: 24px;
 }
 .desktop-5 {
-  position: relative;
+  /* position: relative; */
   width: 100%;
-  height: 2297px;
+  height: auto;
   overflow: hidden;
   /*background-image: url(../../public/desktop--5@3x.png);*/
   background-size: cover;
@@ -488,3 +500,54 @@
   color: var(--color-black);
   font-family: var(--font-montserrat);
 }
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+.we-provide-customised-cash-van{
+  top: 531px;
+  width: 342px;
+  left: 34px;
+}
+.our-cash-van-is-equipped-with{
+  width: 342px;
+  left: 62px;
+}
+.cash-van-safety-features{
+  width: 342px;
+  left: 62px;
+}
+.if-you-are-looking-to-transpor{
+  width: 342px;
+  left: 62px;
+}
+.cash-van-safety-features-our-c{
+  left: -31px;
+}
+
+
+.responsivx{
+  margin-left: 31px;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+

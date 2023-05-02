@@ -60,9 +60,6 @@
 .rectangle-div1 {
   background-color: var(--color-gray-400);
 }
-.security-guard-is {
-  font-weight: 500;
-}
 .p {
   margin-block-start: 0;
   margin-block-end: 0;
@@ -86,13 +83,22 @@
 .guardingindustrial-security,
 .security-guard-is-omnipresent {
   position: absolute;
-  top: 820px;
-  left: 75px;
-  font-size: var(--font-inherit);
+  top: 754px;
+  left: 50px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
   color: var(--color-gray-300);
   text-align: justify;
   display: inline-block;
-  width: 1290px;
+  width: 96%;
+}
+p{
+  font-size: 19px;
+}
+.p2{
+  font-weight: 300;
+  font-size: 20px;
 }
 .guardingindustrial-security {
   top: 750px;
@@ -465,9 +471,9 @@
   color: var(--color-white);
 }
 .desktop-4 {
-  position: relative;
+  /* position: relative; */
   width: 100%;
-  height: 2187px;
+  height: auto;
   overflow: hidden;
   /*background-image: url(../../public/desktop--4@3x.png);*/
   background-size: cover;
@@ -477,4 +483,26 @@
   font-size: var(--font-size-base);
   color: var(--color-black);
   font-family: var(--font-montserrat);
+}
+
+
+
+
+@media only screen and (max-width: 600px) 
+{
+.security-guard-is-omnipresent {
+  top: 501px;
+  left: 32px;
+  width: 345px;
+}
+
+.hghs{
+  margin-left: 32px;
+}
+
+.respo{
+  margin-top: 12px !important;
+    width: fit-content;
+    margin-left: -25px !important;
+}
 }

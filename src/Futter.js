@@ -6,7 +6,7 @@ const Futter = () => {
     
 return(
   <div>
-    <div class="footer">
+    <div class="footer ">
       <div class="contain bynow">
       <div class="col imgrs" style={{width: '-54px'}}>
         <ul>
@@ -19,28 +19,28 @@ return(
       <div class="col">
         <h1>USEFULL LINK</h1>
         <ul>
-        <a href="/home"><div className="hloarrow"></div><li>HOME</li></a>
+        <a href="/"><div className="hloarrow"></div><li>HOME</li></a>
         <a href="/home"><div className="hloarrow"></div><li>SECURITY SERVICES</li></a>
-        <a href="/home"><div className="hloarrow"></div><li>ABOUT US</li></a>
-        <a href="/home"><div className="hloarrow"></div><li>TRAINING</li></a>
-        <a href="/home"><div className="hloarrow"></div><li>CONTACT</li></a>
+        <a href="/about us"><div className="hloarrow"></div><li>ABOUT US</li></a>
+        <a href="/training"><div className="hloarrow"></div><li>TRAINING</li></a>
+        <a href="/contact"><div className="hloarrow"></div><li>CONTACT</li></a>
         </ul>
       </div>
       <div class="col hloasu">
         <h1>SECURITY SERVICES</h1>
         <ul>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Guarding/Industrial Security</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Transportation of Cash</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Security of Ware Houses</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Night Patrol</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Electronic Security</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Security Equipment</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Fire safety systems.</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Private Investigation</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Security audit/consultancy</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Training of Security Staff</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Business Executive Protection</li></a>
-        <a href="/home"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Events Security</li></a>
+        <a href="/Guarding"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Guarding/Industrial Security</li></a>
+        <a href="/Transportation"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Transportation of Cash</li></a>
+        <a href="/Security"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Security of Ware Houses</li></a>
+        <a href="/Night"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Night Patrol</li></a>
+        <a href="/Electronic"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Electronic Security</li></a>
+        <a href="/Equipment"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Security Equipment</li></a>
+        <a href="/Installation"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Fire safety systems.</li></a>
+        <a href="/Private"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Private Investigation</li></a>
+        <a href="/Audit"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Security audit/consultancy</li></a>
+        <a href="/Staff"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Training of Security Staff</li></a>
+        <a href="/Buisness"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Business Executive Protection</li></a>
+        <a href="/Event"><div className="hloarrow"></div><li  style={{marginBottom: '-4px', width: '110%'}}>Events Security</li></a>
           
         </ul>
       </div>

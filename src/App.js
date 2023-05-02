@@ -22,7 +22,7 @@ import Navbar from './Navbar/navbar';
 // import Futter from './Futter';
 
 
-function App() {
+function App() { 
   return (
     <>
   <Navbar/> 

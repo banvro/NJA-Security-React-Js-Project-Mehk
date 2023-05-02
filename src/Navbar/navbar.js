@@ -38,13 +38,13 @@ const Navbar = () => {
                             <a href="Event">Events Security</a>
                         </div>
                     </div>
-                    </li>
+                    </li> 
                     <li className="li-list">
                         <Link to="/training">TRAINING</Link>
 
                     </li>
                     <li className="li-list">
-                        <Link to="/Contact">CONTACT</Link>
+                        <Link to="/Contact us">CONTACT</Link>
                     </li>
                 </ul>
                 </div>
